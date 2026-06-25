@@ -1,7 +1,7 @@
 {
   "name": "site-parsing",
   "version": "1.0.0",
-  "description": "Парсер квартир ЖК Легенда Марусино и ЖК Легенда Коренёво с генерацией Yandex Realty XML-фида",
+  "description": "Парсер квартир ЖК Легенда Марусино, Легенда Коренёво, AFI Park",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "axios": "^1.7.2",
+    "cheerio": "^1.0.0",
     "xmlbuilder2": "^3.1.1"
   }
 }
