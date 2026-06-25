@@ -5,21 +5,6 @@ import { fetchLots } from './fetcher.js';
 import { normalizeAll } from './normalizer.js';
 import { buildYandexXml } from './xmlBuilder.js';
 
-/**
- * Транслитерирует название проекта в безопасное имя файла
- * 'ЖК "Легенда Марусино"' -> 'legendamarusino'
- */
-function toFilename(projectName) {
-  return projectName
-    .toLowerCase()
-    .replace(/[жк\s"'«»]+/g, '')
-    .replace(/[^a-zа-я0-9]/g, '')
-    .replace(/легенда/, 'legenda')
-    .replace(/марусино/, 'marusino')
-    .replace(/коренёво|коренево/, 'korenevo')
-    || 'project';
-}
-
 async function run() {
   console.log('\n=== Запуск парсера ===\n');
 
@@ -37,32 +22,20 @@ async function run() {
 
     const raw = await fetchLots(source.api, source.projectId);
     const normalized = normalizeAll(raw, source.site, source.project);
-    console.log(`  Нормализовано лотов из ${source.project}: ${normalized.length}`);
 
-    // --- Отдельный XML и JSON по каждому ЖК ---
-    const slug = toFilename(source.project);
+    // slug берём прямо из config.js (source.slug)
+    const slug = source.slug;
+    console.log(`  ${source.project} [${slug}]: ${normalized.length} лотов`);
 
-    const projectJsonPath = path.join(OUTPUT_DIR, `${slug}.json`);
-    fs.writeFileSync(projectJsonPath, JSON.stringify(normalized, null, 2), 'utf-8');
-    console.log(`  JSON сохранен:  ${projectJsonPath}`);
-
-    const projectXmlPath = path.join(OUTPUT_DIR, `${slug}.xml`);
-    fs.writeFileSync(projectXmlPath, buildYandexXml(normalized), 'utf-8');
-    console.log(`  XML сохранен:   ${projectXmlPath}`);
+    fs.writeFileSync(path.join(OUTPUT_DIR, `${slug}.json`), JSON.stringify(normalized, null, 2), 'utf-8');
+    fs.writeFileSync(path.join(OUTPUT_DIR, `${slug}.xml`), buildYandexXml(normalized), 'utf-8');
 
     allLots.push(...normalized);
   }
 
-  // --- Объединённый фид из всех ЖК ---
   console.log(`\nВсего лотов в объединённом фиде: ${allLots.length}`);
-
-  const combinedJsonPath = path.join(OUTPUT_DIR, 'feed.json');
-  fs.writeFileSync(combinedJsonPath, JSON.stringify(allLots, null, 2), 'utf-8');
-  console.log(`JSON объединённый сохранен: ${combinedJsonPath}`);
-
-  const combinedXmlPath = path.join(OUTPUT_DIR, 'feed.xml');
-  fs.writeFileSync(combinedXmlPath, buildYandexXml(allLots), 'utf-8');
-  console.log(`XML объединённый сохранён: ${combinedXmlPath}`);
+  fs.writeFileSync(path.join(OUTPUT_DIR, 'feed.json'), JSON.stringify(allLots, null, 2), 'utf-8');
+  fs.writeFileSync(path.join(OUTPUT_DIR, 'feed.xml'), buildYandexXml(allLots), 'utf-8');
 
   console.log('\n=== Готово ===\n');
 }
