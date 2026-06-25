@@ -1,0 +1,38 @@
+name: Update Feeds
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # каждые 6 часов
+  workflow_dispatch:         # вручной запуск из GitHub UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run parser
+        run: npm start
+
+      - name: Commit updated feeds
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add output/
+          git diff --staged --quiet && echo "Нет изменений" || (
+            git commit -m "chore: update feeds $(date '+%Y-%m-%d %H:%M')"
+            git push
+          )
