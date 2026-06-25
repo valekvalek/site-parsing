@@ -3,13 +3,13 @@ export const sources = [
     api: 'https://legendamarusino.ru/api/realty-filter/custom/real-estates',
     site: 'https://legendamarusino.ru',
     project: 'ЖК "Легенда Марусино"',
-    projectId: 'a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0'  // из Payload
+    projectId: 'a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0'
   },
   {
     api: 'https://legendakorenevo.ru/api/realty-filter/custom/real-estates',
     site: 'https://legendakorenevo.ru',
     project: 'ЖК "Легенда Коренёво"',
-    projectId: null  // заполните после проверки Payload у Коренёво
+    projectId: '61b193a5-aa22-4f3a-bf22-216ebc5648b1'
   }
 ];
 
