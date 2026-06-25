@@ -11,7 +11,12 @@ async function run() {
   const allLots = [];
 
   for (const source of sources) {
-    const raw = await fetchLots(source.api);
+    if (!source.projectId) {
+      console.warn(`  ПРОПУСК: не задан projectId для ${source.project}`);
+      continue;
+    }
+
+    const raw = await fetchLots(source.api, source.projectId);
     const normalized = normalizeAll(raw, source.site, source.project);
     console.log(`  Нормализовано лотов из ${source.project}: ${normalized.length}`);
     allLots.push(...normalized);
@@ -19,12 +24,11 @@ async function run() {
 
   console.log(`\nВсего лотов для фида: ${allLots.length}`);
 
-  // Создаем папку output если нет
   if (!fs.existsSync(OUTPUT_DIR)) {
     fs.mkdirSync(OUTPUT_DIR, { recursive: true });
   }
 
-  // Сохраняем JSON (для отладки)
+  // Сохраняем JSON для отладки
   const jsonPath = path.join(OUTPUT_DIR, 'feed.json');
   fs.writeFileSync(jsonPath, JSON.stringify(allLots, null, 2), 'utf-8');
   console.log(`JSON сохранен: ${jsonPath}`);
