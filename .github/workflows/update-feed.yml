@@ -2,8 +2,8 @@ name: Update Feeds
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # каждые 6 часов
-  workflow_dispatch:         # вручной запуск из GitHub UI
+    - cron: '0 6 * * *'  # каждый день в 09:00 МСК
+  workflow_dispatch:      # вручной запуск из GitHub UI
 
 jobs:
   update:
