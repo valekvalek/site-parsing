@@ -25,15 +25,16 @@ function normalizeStatus(status) {
 
 /**
  * Нормализует один объект квартиры из API
- * @param {Object} item — сырой объект из API
- * @param {string} site — базовый URL сайта (для формирования ссылок)
+ * @param {Object} item    — сырой объект из API
+ * @param {string} site    — базовый URL сайта
  * @param {string} fallbackProject — название ЖК если нет в данных
- * @returns {Object|null} — нормализованный объект или null если нужно пропустить
+ * @param {number|null} projectLat — координата из config (запасной вариант)
+ * @param {number|null} projectLng — координата из config (запасной вариант)
+ * @returns {Object|null}
  */
-export function normalizeLot(item, site, fallbackProject) {
+export function normalizeLot(item, site, fallbackProject, projectLat = null, projectLng = null) {
   const status = normalizeStatus(item.status);
 
-  // Пропускаем проданные и лоты без цены/площади
   if (EXCLUDED_STATUSES.includes(status)) return null;
   if (!item.price || !item.total_area) return null;
   if (!item.slug) return null;
@@ -44,6 +45,10 @@ export function normalizeLot(item, site, fallbackProject) {
   const planImage = absoluteUrl(site, item.plan);
   const firstImage =
     item.images?.length ? absoluteUrl(site, item.images[0]) : planImage;
+
+  // Координаты: сначала берём из ответа API, если нет — из config
+  const lat = item.lat ?? item.latitude ?? projectLat ?? null;
+  const lng = item.lng ?? item.longitude ?? projectLng ?? null;
 
   return {
     internalId: item.id,
@@ -68,6 +73,8 @@ export function normalizeLot(item, site, fallbackProject) {
     hasBalcony: item.has_balcony || false,
     finishing: item.finishing_type || 'no',
     mortgagePayment: item.mortgage_payment || null,
+    lat,
+    lng,
     description:
       `${item.project_name || fallbackProject}. ` +
       `${roomsTitle} ${item.total_area} м², ` +
@@ -81,8 +88,8 @@ export function normalizeLot(item, site, fallbackProject) {
 /**
  * Нормализует массив лотов из одного источника и фильтрует null
  */
-export function normalizeAll(items, site, fallbackProject) {
+export function normalizeAll(items, site, fallbackProject, projectLat = null, projectLng = null) {
   return items
-    .map(item => normalizeLot(item, site, fallbackProject))
+    .map(item => normalizeLot(item, site, fallbackProject, projectLat, projectLng))
     .filter(Boolean);
 }
