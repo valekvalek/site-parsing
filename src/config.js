@@ -5,7 +5,9 @@ export const sources = [
     site: 'https://legendamarusino.ru',
     project: 'ЖК "Легенда Марусино"',
     slug: 'legendamarusino',
-    projectId: 'a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0'
+    projectId: 'a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0',
+    lat: 55.693906,
+    lng: 37.977366
   },
   {
     type: 'json',
@@ -13,7 +15,9 @@ export const sources = [
     site: 'https://legendakorenevo.ru',
     project: 'ЖК "Легенда Коренёво"',
     slug: 'legendakorenevo',
-    projectId: '61b193a5-aa22-4f3a-bf22-216ebc5648b1'
+    projectId: '61b193a5-aa22-4f3a-bf22-216ebc5648b1',
+    lat: 55.677874,
+    lng: 38.001791
   },
   {
     type: 'bitrix',
