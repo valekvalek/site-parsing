@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-06-26T07:52:40.740Z</generated>
+  <generated>2026-06-26T08:01:08.859Z</generated>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>b672e17d-718e-419f-babb-b7841e6e71d8</ExternalId>
@@ -22,6 +22,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>25237.77</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 3</Name>
@@ -71,6 +72,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>25274.4</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 1</Name>
@@ -120,6 +122,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>25362.07</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 4</Name>
@@ -169,6 +172,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>44225.44</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 3</Name>
@@ -218,6 +222,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>45026.88</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 5</Name>
@@ -266,6 +271,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>43164.54</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 3</Name>
@@ -315,6 +321,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>43259.2</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 2</Name>
@@ -364,6 +371,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>43413.7</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 5</Name>
@@ -413,6 +421,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>43628.68</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 1</Name>
@@ -462,6 +471,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>44088.05</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 2</Name>
@@ -511,6 +521,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>51035.58</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 2</Name>
@@ -560,6 +571,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>47058.77</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 1</Name>
@@ -609,6 +621,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>50576.59</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 2</Name>
@@ -658,6 +671,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>50618.79</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 3</Name>
@@ -707,6 +721,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>50618.79</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 1</Name>
@@ -756,6 +771,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>50730.78</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 4</Name>
@@ -805,6 +821,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>50773.12</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 2</Name>
@@ -854,6 +871,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>50801.34</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 5</Name>
@@ -903,6 +921,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>51039.18</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 3</Name>
@@ -952,6 +971,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>80120.63</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 1</Name>
@@ -1001,6 +1021,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>80143.62</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 5</Name>
@@ -1050,6 +1071,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>80143.62</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 4</Name>
@@ -1099,6 +1121,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>80247.08</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 3</Name>
@@ -1148,6 +1171,7 @@
     <FinishingType>no</FinishingType>
     <MortgagePayment>80350.36</MortgagePayment>
     <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 2</Name>
