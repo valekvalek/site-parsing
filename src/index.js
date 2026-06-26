@@ -34,48 +34,30 @@ async function run() {
         continue;
       }
       const raw = await fetchLots(source.api, source.projectId);
-      // Передаём координаты проекта из config — будут использованы если API не отдаёт свои
-      normalized = normalizeAll(raw, source.site, source.project, source.lat ?? null, source.lng ?? null);
+      normalized = normalizeAll(
+        raw,
+        source.site,
+        source.project,
+        source.lat ?? null,
+        source.lng ?? null,
+        source.projectId ?? null
+      );
     }
 
     console.log(`  ${source.project} [${source.slug}]: ${normalized.length} лотов`);
 
-    fs.writeFileSync(
-      path.join(OUTPUT_DIR, `${source.slug}.json`),
-      JSON.stringify(normalized, null, 2),
-      'utf-8'
-    );
-    fs.writeFileSync(
-      path.join(OUTPUT_DIR, `${source.slug}.xml`),
-      buildYandexXml(normalized),
-      'utf-8'
-    );
-    fs.writeFileSync(
-      path.join(OUTPUT_DIR, `${source.slug}-cian.xml`),
-      buildCianXml(normalized),
-      'utf-8'
-    );
+    fs.writeFileSync(path.join(OUTPUT_DIR, `${source.slug}.json`),     JSON.stringify(normalized, null, 2), 'utf-8');
+    fs.writeFileSync(path.join(OUTPUT_DIR, `${source.slug}.xml`),      buildYandexXml(normalized), 'utf-8');
+    fs.writeFileSync(path.join(OUTPUT_DIR, `${source.slug}-cian.xml`), buildCianXml(normalized),   'utf-8');
 
     allLots.push(...normalized);
   }
 
   console.log(`\nВсего лотов: ${allLots.length}`);
 
-  fs.writeFileSync(
-    path.join(OUTPUT_DIR, 'feed.json'),
-    JSON.stringify(allLots, null, 2),
-    'utf-8'
-  );
-  fs.writeFileSync(
-    path.join(OUTPUT_DIR, 'feed.xml'),
-    buildYandexXml(allLots),
-    'utf-8'
-  );
-  fs.writeFileSync(
-    path.join(OUTPUT_DIR, 'feed-cian.xml'),
-    buildCianXml(allLots),
-    'utf-8'
-  );
+  fs.writeFileSync(path.join(OUTPUT_DIR, 'feed.json'),     JSON.stringify(allLots, null, 2), 'utf-8');
+  fs.writeFileSync(path.join(OUTPUT_DIR, 'feed.xml'),      buildYandexXml(allLots), 'utf-8');
+  fs.writeFileSync(path.join(OUTPUT_DIR, 'feed-cian.xml'), buildCianXml(allLots),   'utf-8');
 
   console.log('\n=== Готово ===\n');
 }

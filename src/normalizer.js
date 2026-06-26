@@ -1,17 +1,11 @@
 import { EXCLUDED_STATUSES } from './config.js';
 
-/**
- * Строит абсолютный URL к медиафайлу
- */
 function absoluteUrl(site, path) {
   if (!path) return '';
   if (path.startsWith('http')) return path;
   return new URL(path, site).toString();
 }
 
-/**
- * Нормализует статус лота
- */
 function normalizeStatus(status) {
   if (!status) return 'available';
   const map = {
@@ -25,14 +19,14 @@ function normalizeStatus(status) {
 
 /**
  * Нормализует один объект квартиры из API
- * @param {Object} item    — сырой объект из API
- * @param {string} site    — базовый URL сайта
- * @param {string} fallbackProject — название ЖК если нет в данных
- * @param {number|null} projectLat — координата из config (запасной вариант)
- * @param {number|null} projectLng — координата из config (запасной вариант)
- * @returns {Object|null}
+ * @param {Object} item
+ * @param {string} site
+ * @param {string} fallbackProject
+ * @param {number|null} projectLat
+ * @param {number|null} projectLng
+ * @param {string|null} projectId — уникальный ID ЖК из config (для JKSchema/Id)
  */
-export function normalizeLot(item, site, fallbackProject, projectLat = null, projectLng = null) {
+export function normalizeLot(item, site, fallbackProject, projectLat = null, projectLng = null, projectId = null) {
   const status = normalizeStatus(item.status);
 
   if (EXCLUDED_STATUSES.includes(status)) return null;
@@ -46,12 +40,12 @@ export function normalizeLot(item, site, fallbackProject, projectLat = null, pro
   const firstImage =
     item.images?.length ? absoluteUrl(site, item.images[0]) : planImage;
 
-  // Координаты: сначала берём из ответа API, если нет — из config
   const lat = item.lat ?? item.latitude ?? projectLat ?? null;
   const lng = item.lng ?? item.longitude ?? projectLng ?? null;
 
   return {
     internalId: item.id,
+    projectId,
     projectName: item.project_name || fallbackProject,
     url: `${site}/flats/${item.slug}`,
     price: item.price,
@@ -85,11 +79,8 @@ export function normalizeLot(item, site, fallbackProject, projectLat = null, pro
   };
 }
 
-/**
- * Нормализует массив лотов из одного источника и фильтрует null
- */
-export function normalizeAll(items, site, fallbackProject, projectLat = null, projectLng = null) {
+export function normalizeAll(items, site, fallbackProject, projectLat = null, projectLng = null, projectId = null) {
   return items
-    .map(item => normalizeLot(item, site, fallbackProject, projectLat, projectLng))
+    .map(item => normalizeLot(item, site, fallbackProject, projectLat, projectLng, projectId))
     .filter(Boolean);
 }

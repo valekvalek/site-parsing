@@ -31,7 +31,14 @@ async function updateFeeds() {
       } else {
         if (!source.projectId) continue;
         const raw = await fetchLots(source.api, source.projectId);
-        normalized = normalizeAll(raw, source.site, source.project, source.lat ?? null, source.lng ?? null);
+        normalized = normalizeAll(
+          raw,
+          source.site,
+          source.project,
+          source.lat ?? null,
+          source.lng ?? null,
+          source.projectId ?? null
+        );
       }
 
       const slug = source.slug;
@@ -55,7 +62,6 @@ async function updateFeeds() {
 }
 
 const ROUTES = {
-  // Yandex XML
   '/feed':              'feed.xml',
   '/feed.xml':          'feed.xml',
   '/feed.json':         'feed.json',
@@ -63,7 +69,6 @@ const ROUTES = {
   '/marusino.xml':      'legendamarusino.xml',
   '/korenevo':          'legendakorenevo.xml',
   '/korenevo.xml':      'legendakorenevo.xml',
-  // CIAN-like XML
   '/feed-cian':         'feed-cian.xml',
   '/feed-cian.xml':     'feed-cian.xml',
   '/marusino-cian':     'legendamarusino-cian.xml',
