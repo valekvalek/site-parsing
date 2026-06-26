@@ -34,26 +34,22 @@ async function run() {
         continue;
       }
       const raw = await fetchLots(source.api, source.projectId);
-      normalized = normalizeAll(raw, source.site, source.project);
+      // Передаём координаты проекта из config — будут использованы если API не отдаёт свои
+      normalized = normalizeAll(raw, source.site, source.project, source.lat ?? null, source.lng ?? null);
     }
 
     console.log(`  ${source.project} [${source.slug}]: ${normalized.length} лотов`);
 
-    // JSON срез проекта
     fs.writeFileSync(
       path.join(OUTPUT_DIR, `${source.slug}.json`),
       JSON.stringify(normalized, null, 2),
       'utf-8'
     );
-
-    // Yandex XML срез проекта
     fs.writeFileSync(
       path.join(OUTPUT_DIR, `${source.slug}.xml`),
       buildYandexXml(normalized),
       'utf-8'
     );
-
-    // CIAN-like XML срез проекта
     fs.writeFileSync(
       path.join(OUTPUT_DIR, `${source.slug}-cian.xml`),
       buildCianXml(normalized),
@@ -65,7 +61,6 @@ async function run() {
 
   console.log(`\nВсего лотов: ${allLots.length}`);
 
-  // Сводные фиды по всем проектам
   fs.writeFileSync(
     path.join(OUTPUT_DIR, 'feed.json'),
     JSON.stringify(allLots, null, 2),
