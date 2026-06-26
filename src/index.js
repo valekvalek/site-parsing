@@ -6,6 +6,7 @@ import { fetchBitrixLots } from './fetcherBitrix.js';
 import { normalizeAll } from './normalizer.js';
 import { normalizeBitrixLots } from './normalizerBitrix.js';
 import { buildYandexXml } from './xmlBuilder.js';
+import { buildCianXml } from './xmlBuilderCian.js';
 
 async function run() {
   console.log('\n=== Запуск парсера ===\n');
@@ -25,11 +26,9 @@ async function run() {
     let normalized = [];
 
     if (source.type === 'bitrix') {
-      // Специальный парсер для Bitrix-сайтов
       const raw = await fetchBitrixLots(source.site);
       normalized = normalizeBitrixLots(raw, source.site, source.project);
     } else {
-      // Стандартный JSON API (Легенда)
       if (!source.projectId) {
         console.warn(`  ПРОПУСК: нет projectId для ${source.project}`);
         continue;
@@ -40,15 +39,48 @@ async function run() {
 
     console.log(`  ${source.project} [${source.slug}]: ${normalized.length} лотов`);
 
-    fs.writeFileSync(path.join(OUTPUT_DIR, `${source.slug}.json`), JSON.stringify(normalized, null, 2), 'utf-8');
-    fs.writeFileSync(path.join(OUTPUT_DIR, `${source.slug}.xml`),  buildYandexXml(normalized), 'utf-8');
+    // JSON срез проекта
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, `${source.slug}.json`),
+      JSON.stringify(normalized, null, 2),
+      'utf-8'
+    );
+
+    // Yandex XML срез проекта
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, `${source.slug}.xml`),
+      buildYandexXml(normalized),
+      'utf-8'
+    );
+
+    // CIAN-like XML срез проекта
+    fs.writeFileSync(
+      path.join(OUTPUT_DIR, `${source.slug}-cian.xml`),
+      buildCianXml(normalized),
+      'utf-8'
+    );
 
     allLots.push(...normalized);
   }
 
   console.log(`\nВсего лотов: ${allLots.length}`);
-  fs.writeFileSync(path.join(OUTPUT_DIR, 'feed.json'), JSON.stringify(allLots, null, 2), 'utf-8');
-  fs.writeFileSync(path.join(OUTPUT_DIR, 'feed.xml'),  buildYandexXml(allLots), 'utf-8');
+
+  // Сводные фиды по всем проектам
+  fs.writeFileSync(
+    path.join(OUTPUT_DIR, 'feed.json'),
+    JSON.stringify(allLots, null, 2),
+    'utf-8'
+  );
+  fs.writeFileSync(
+    path.join(OUTPUT_DIR, 'feed.xml'),
+    buildYandexXml(allLots),
+    'utf-8'
+  );
+  fs.writeFileSync(
+    path.join(OUTPUT_DIR, 'feed-cian.xml'),
+    buildCianXml(allLots),
+    'utf-8'
+  );
 
   console.log('\n=== Готово ===\n');
 }
