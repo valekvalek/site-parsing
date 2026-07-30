@@ -1247,6 +1247,354 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
+  <offer internal-id="d9ee33fd-45d1-4755-9949-fb0eea7a0bc5">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-4-kvartira-studia-29.5m-k103</url>
+    <image>https://legendakorenevo.ru/catalog/plans/8a0c/e666/8a0ce666c83552abbbbcec3e95e0d1b1.png</image>
+    <price>
+      <value>6047500</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>29.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>15</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>5.5</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>0</rooms>
+    <floor>3</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". Студия 29.5 м², этаж 3, секция 2, корпус Корпус 4. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="1cfa6304-a8ec-458f-818b-999967e26d86">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-3-1-komnatnaya-kvartira-34.1m-k95</url>
+    <image>https://legendakorenevo.ru/catalog/plans/bb7e/a880/bb7ea880b7e25d8bbb15666c496ca94e.png</image>
+    <price>
+      <value>6840000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>34.2</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.1</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>8.1</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>1</rooms>
+    <floor>2</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 1-комнатная квартира 34.2 м², этаж 2, секция 2, корпус Корпус 3. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="c8c0ec55-33e6-411d-a4b7-4ad4e2317cd7">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-1-1-komnatnaya-kvartira-34.1m-k11</url>
+    <image>https://legendakorenevo.ru/catalog/plans/920a/3680/920a3680a1455c7283b0efc36a5bad19.png</image>
+    <price>
+      <value>6860000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>34.3</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.1</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>8.1</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>1</rooms>
+    <floor>2</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 1-комнатная квартира 34.3 м², этаж 2, секция 1, корпус Корпус 1. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="19588285-9b1e-461d-8bd1-fd4c0190332e">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-5-1-komnatnaya-kvartira-34.1m-k130</url>
+    <image>https://legendakorenevo.ru/catalog/plans/b6c1/cccb/b6c1cccbe3f45b4f94becf697ab0e5ab.png</image>
+    <price>
+      <value>6880000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>34.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.1</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>8.1</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>1</rooms>
+    <floor>4</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 1-комнатная квартира 34.4 м², этаж 4, секция 2, корпус Корпус 5. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="04b95c4f-a661-4a80-bb92-c40b17b9c8ec">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-1-2-komnatnaya-kvartira-56.2m-k99</url>
+    <image>https://legendakorenevo.ru/catalog/plans/f736/d65f/f736d65f39b15c8084874bed68961e4f.png</image>
+    <price>
+      <value>10902800</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>56.2</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>31.6</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>6</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <floor>3</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 2-комнатная квартира 56.2 м², этаж 3, секция 2, корпус Корпус 1. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="c3b79252-23b3-4622-97ce-b6ec7323e359">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-5-2-komnatnaya-kvartira-56.3m-k18</url>
+    <image>https://legendakorenevo.ru/catalog/plans/9e09/735c/9e09735cbd9a5c23ac4bc49c98ae447b.png</image>
+    <price>
+      <value>11130500</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>56.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>31.6</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>6</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <floor>2</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 2-комнатная квартира 56.5 м², этаж 2, секция 1, корпус Корпус 5. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="6c014918-972a-47e4-881d-49936b49d2d2">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-2-2-komnatnaya-kvartira-56.3m-k94</url>
+    <image>https://legendakorenevo.ru/catalog/plans/32b1/2646/32b126460d0d5c30a538adddcc8e6317.png</image>
+    <price>
+      <value>11150200</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>56.6</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>31.6</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>6</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <floor>2</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 2-комнатная квартира 56.6 м², этаж 2, секция 2, корпус Корпус 2. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="8d8d7857-b6c1-43a5-b556-1229dc62dd07">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.1m-k233</url>
+    <image>https://legendakorenevo.ru/catalog/plans/c9f4/deac/c9f4deac84475163be4766c41170b99c.png</image>
+    <price>
+      <value>8470000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>29</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.4</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>5.5</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>0</rooms>
+    <floor>7</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". Студия 29 м², этаж 7, секция 3, корпус Корпус 3. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="fe52a957-9ef3-427d-a9cc-4a4dd19caa7c">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-2-kvartira-studia-29.1m-k92</url>
+    <image>https://legendakorenevo.ru/catalog/plans/d193/e671/d193e6713c0f50e58c1b06bee9bc1942.png</image>
+    <price>
+      <value>8506000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>29.3</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.4</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>5.5</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>0</rooms>
+    <floor>2</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". Студия 29.3 м², этаж 2, секция 2, корпус Корпус 2. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="4de2d29c-aeea-4115-8d71-4943f410941d">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.5m-k175</url>
+    <image>https://legendakorenevo.ru/catalog/plans/e778/c877/e778c87715ef559c9fa01998d185150e.png</image>
+    <price>
+      <value>8621000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>29.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>15</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>5.5</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>0</rooms>
+    <floor>2</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". Студия 29.5 м², этаж 2, секция 3, корпус Корпус 3. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="d0723f4f-599f-4508-952c-024288c9e463">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.5m-k30</url>
+    <image>https://legendakorenevo.ru/catalog/plans/6502/09cb/650209cbb546580abcdc736ba0083d7b.png</image>
+    <price>
+      <value>8633000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>29.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>15</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>5.5</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>0</rooms>
+    <floor>4</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". Студия 29.5 м², этаж 4, секция 1, корпус Корпус 3. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="edd41ebd-8cd0-4409-8cb6-2832d4598610">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-2-kvartira-studia-29.5m-k18</url>
+    <image>https://legendakorenevo.ru/catalog/plans/aa28/3636/aa283636cf075fe68959efdb3796a3d7.png</image>
+    <price>
+      <value>8660000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>29.6</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>15</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>5.5</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>0</rooms>
+    <floor>3</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". Студия 29.6 м², этаж 3, секция 1, корпус Корпус 2. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
   <offer internal-id="48de89e7-fa22-40a3-aa2a-d89faf998f9f">
     <type>продажа</type>
     <category>квартира</category>
@@ -1301,6 +1649,93 @@
     <floor>2</floor>
     <ceiling-height>2.72</ceiling-height>
     <description>ЖК "Легенда Коренево". Студия 29.3 м², этаж 2, секция 2, корпус Корпус 5. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="40922d9b-0e5d-4682-8873-3e894bc3b8bc">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-4-1-komnatnaya-kvartira-34.1m-k59</url>
+    <image>https://legendakorenevo.ru/catalog/plans/5105/acca/5105acca575f5c6eb48d9d94c8d10ff4.png</image>
+    <price>
+      <value>9875000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>34.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.1</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>8.1</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>1</rooms>
+    <floor>6</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 1-комнатная квартира 34.1 м², этаж 6, секция 1, корпус Корпус 4. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="84f9a048-d93d-4536-87d1-fa76b281ca9c">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-2-1-komnatnaya-kvartira-34.1m-k95</url>
+    <image>https://legendakorenevo.ru/catalog/plans/c518/4af8/c5184af852295062ab0f7cac5e1f6088.png</image>
+    <price>
+      <value>9898000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>34.2</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.1</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>8.1</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>1</rooms>
+    <floor>2</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 1-комнатная квартира 34.2 м², этаж 2, секция 2, корпус Корпус 2. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="f1d6f3ef-88a3-47fe-9558-8f3f86f94072">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-4-1-komnatnaya-kvartira-34.1m-k155</url>
+    <image>https://legendakorenevo.ru/catalog/plans/6300/97eb/630097eb23d65a368732517cd31e4e23.png</image>
+    <price>
+      <value>9912000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>34.2</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.1</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>8.1</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>1</rooms>
+    <floor>7</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 1-комнатная квартира 34.2 м², этаж 7, секция 2, корпус Корпус 4. Срок сдачи: уточняйте.</description>
     <sales-agent>
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
@@ -1707,6 +2142,122 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
+  <offer internal-id="4e115908-09a0-4d8c-860a-ca700bcef13b">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-4-2-komnatnaya-kvartira-56.2m-k159</url>
+    <image>https://legendakorenevo.ru/catalog/plans/55eb/b371/55ebb3717d595235b7494696fb98fa8d.png</image>
+    <price>
+      <value>16125000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>56.2</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>31.6</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>6</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <floor>8</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 2-комнатная квартира 56.2 м², этаж 8, секция 2, корпус Корпус 4. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="4092b9a9-d85b-4655-8944-1cb78aa6ce36">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-4-2-komnatnaya-kvartira-56.2m-k39</url>
+    <image>https://legendakorenevo.ru/catalog/plans/9814/38f7/981438f7759552239d288c2f28a4e4b4.png</image>
+    <price>
+      <value>16153000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>56.5</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>31.6</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>6</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <floor>5</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 2-комнатная квартира 56.5 м², этаж 5, секция 1, корпус Корпус 4. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="e5ad76aa-b6a0-45e5-81bc-31dadf41c25f">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-2-2-komnatnaya-kvartira-56.2m-k27</url>
+    <image>https://legendakorenevo.ru/catalog/plans/ec92/c03b/ec92c03b329a58cfbc8154f903518d10.png</image>
+    <price>
+      <value>16193000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>56.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>31.6</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>6</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <floor>4</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 2-комнатная квартира 56.4 м², этаж 4, секция 1, корпус Корпус 2. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="7bbbfb93-19e7-4082-9b42-0cbad376892a">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-5-2-komnatnaya-kvartira-56.3m-k134</url>
+    <image>https://legendakorenevo.ru/catalog/plans/45fe/dc14/45fedc14ee2956f690c641f8678749d0.png</image>
+    <price>
+      <value>16359000</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>56.7</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>31.6</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>6</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <floor>5</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 2-комнатная квартира 56.7 м², этаж 5, секция 2, корпус Корпус 5. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
   <offer internal-id="117e91e6-65f7-4b63-b2f5-5ef4fcc64825">
     <type>продажа</type>
     <category>квартира</category>
@@ -1819,35 +2370,6 @@
     <floor>6</floor>
     <ceiling-height>2.72</ceiling-height>
     <description>ЖК "Легенда Коренево". 2-комнатная квартира 56.5 м², этаж 6, секция 1, корпус Корпус 3. Срок сдачи: уточняйте.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="6c014918-972a-47e4-881d-49936b49d2d2">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-2-2-komnatnaya-kvartira-56.3m-k94</url>
-    <image>https://legendakorenevo.ru/catalog/plans/32b1/2646/32b126460d0d5c30a538adddcc8e6317.png</image>
-    <price>
-      <value>18733160</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>56.6</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>31.6</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>6</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>2</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 2-комнатная квартира 56.6 м², этаж 2, секция 2, корпус Корпус 2. Срок сдачи: уточняйте.</description>
     <sales-agent>
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
