@@ -464,35 +464,6 @@
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="0a9cf420-b96a-4dac-90f9-68427dd43044">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/kvartira-studia-24.1m-k43</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/b6e28b0f6b6546a29876a43671ced768.svg</image>
-    <price>
-      <value>8956244</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>24.1</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>13.3</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>3.3</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>0</rooms>
-    <floor>3</floor>
-    <ceiling-height>2.82</ceiling-height>
-    <description>ЖК "Легенда Марусино". Студия 24.1 м², этаж 3, секция 2, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="fd302b14-fed3-4765-b11c-08276ca6e1e5">
     <type>продажа</type>
     <category>квартира</category>
@@ -576,35 +547,6 @@
     <floor>1</floor>
     <ceiling-height>3.57</ceiling-height>
     <description>ЖК "Легенда Марусино". 1-комнатная квартира 38.4 м², этаж 1, секция 3, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="5fb50d0b-691c-42bd-a839-e9a282a68b71">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-38.9m-k321</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/461a13b99a8c48a48fe7d31bad4dae27.png</image>
-    <price>
-      <value>12502398</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>38.9</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>26.2</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>4.7</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>1</floor>
-    <ceiling-height>3.57</ceiling-height>
-    <description>ЖК "Легенда Марусино". 2-комнатная квартира 38.9 м², этаж 1, секция 9, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
