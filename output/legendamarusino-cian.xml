@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-08-03T09:40:33.108Z</generated>
+  <generated>2026-08-04T08:33:43.859Z</generated>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>b2414936-7f0b-4660-bf56-8838d2fb4c5b</ExternalId>
@@ -1228,57 +1228,6 @@
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>b6c19fe6-e9f6-4765-a4d8-2889bde05ff2</ExternalId>
-    <Description>ЖК "Легенда Марусино". 3-комнатная квартира 67.8 м², этаж 5, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/3-komnatnaya-kvartira-67.8m-k217</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>3</FlatRoomsCount>
-    <TotalArea>67.8</TotalArea>
-    <LivingArea>47.3</LivingArea>
-    <KitchenArea>3.2</KitchenArea>
-    <FloorNumber>5</FloorNumber>
-    <CeilingHeight>2.82</CeilingHeight>
-    <HasBalcony>true</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>57082.57</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.2</Name>
-        <Flat>
-          <FlatNumber>К217</FlatNumber>
-          <SectionNumber>5</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.2</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/5a465347a4c640fb9058e4412cba2583.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/5a465347a4c640fb9058e4412cba2583.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>13223463</Price>
-      <Currency>rur</Currency>
-      <OldPrice>13223463</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
     <ExternalId>84ee4748-8590-48f6-9d52-70e46735a957</ExternalId>
     <Description>ЖК "Легенда Марусино". 1-комнатная квартира 41.3 м², этаж 1, секция 9, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
     <Status>available</Status>
@@ -1631,6 +1580,57 @@
       <Price>13558442</Price>
       <Currency>rur</Currency>
       <OldPrice>13558442</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>b6c19fe6-e9f6-4765-a4d8-2889bde05ff2</ExternalId>
+    <Description>ЖК "Легенда Марусино". 3-комнатная квартира 67.8 м², этаж 5, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
+    <Status>available</Status>
+    <Url>https://legendamarusino.ru/flats/3-komnatnaya-kvartira-67.8m-k217</Url>
+    <Coordinates>
+      <Lat>55.693906</Lat>
+      <Lng>37.977366</Lng>
+    </Coordinates>
+    <FlatRoomsCount>3</FlatRoomsCount>
+    <TotalArea>67.8</TotalArea>
+    <LivingArea>47.3</LivingArea>
+    <KitchenArea>3.2</KitchenArea>
+    <FloorNumber>5</FloorNumber>
+    <CeilingHeight>2.82</CeilingHeight>
+    <HasBalcony>true</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>58833.85</MortgagePayment>
+    <JKSchema>
+      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
+      <Name>ЖК "Легенда Марусино"</Name>
+      <House>
+        <Name>1.2</Name>
+        <Flat>
+          <FlatNumber>К217</FlatNumber>
+          <SectionNumber>5</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>1.2</Name>
+      <Deadline>4 кв. 2026</Deadline>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/5a465347a4c640fb9058e4412cba2583.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/5a465347a4c640fb9058e4412cba2583.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>13629156</Price>
+      <Currency>rur</Currency>
+      <OldPrice>13629156</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
