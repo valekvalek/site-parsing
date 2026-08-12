@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-08-11T07:03:53.455Z</generated>
+  <generated>2026-08-12T07:21:21.562Z</generated>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>b672e17d-718e-419f-babb-b7841e6e71d8</ExternalId>
@@ -520,7 +520,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>40531.26</MortgagePayment>
+    <MortgagePayment>36329.56</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -570,7 +570,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>40703.53</MortgagePayment>
+    <MortgagePayment>36483.98</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -620,7 +620,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>41253.84</MortgagePayment>
+    <MortgagePayment>36977.23</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -670,7 +670,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>41311.26</MortgagePayment>
+    <MortgagePayment>37028.7</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -720,7 +720,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>41440.46</MortgagePayment>
+    <MortgagePayment>37144.51</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -770,7 +770,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>44225.44</MortgagePayment>
+    <MortgagePayment>39640.78</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -820,7 +820,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>45026.88</MortgagePayment>
+    <MortgagePayment>40359.14</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -870,7 +870,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>47254.57</MortgagePayment>
+    <MortgagePayment>42355.9</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -970,7 +970,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>47431.63</MortgagePayment>
+    <MortgagePayment>42514.6</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1269,7 +1269,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>51035.58</MortgagePayment>
+    <MortgagePayment>45744.95</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1719,7 +1719,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>77162.53</MortgagePayment>
+    <MortgagePayment>69163.43</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
