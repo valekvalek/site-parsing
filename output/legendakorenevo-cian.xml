@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-08-24T06:54:14.260Z</generated>
+  <generated>2026-08-25T06:42:13.003Z</generated>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>b672e17d-718e-419f-babb-b7841e6e71d8</ExternalId>
@@ -20,7 +20,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>20774</MortgagePayment>
+    <MortgagePayment>21391</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -46,9 +46,9 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>5965500</Price>
+      <Price>6142759</Price>
       <Currency>rur</Currency>
-      <OldPrice>5965500</OldPrice>
+      <OldPrice>6142759</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -70,7 +70,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>20845</MortgagePayment>
+    <MortgagePayment>21465</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -96,59 +96,9 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>5986000</Price>
+      <Price>6163868</Price>
       <Currency>rur</Currency>
-      <OldPrice>5986000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>f0f830b7-6fd6-457b-b6e5-db1a60b929f9</ExternalId>
-    <Description>ЖК "Легенда Коренево". Студия 29.2 м², этаж 3, секция 1, корпус Корпус 4. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-4-kvartira-studia-29.1m-k20</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>29.2</TotalArea>
-    <LivingArea>14.4</LivingArea>
-    <KitchenArea>5.5</KitchenArea>
-    <FloorNumber>3</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>20845</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 4</Name>
-        <Flat>
-          <FlatNumber>К20</FlatNumber>
-          <SectionNumber>1</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 4</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/ffe7/f0a8/ffe7f0a87fdc55e192909b34c6fc8fb1.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/ffe7/f0a8/ffe7f0a87fdc55e192909b34c6fc8fb1.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>5986000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>5986000</OldPrice>
+      <OldPrice>6163868</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -170,7 +120,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>21059</MortgagePayment>
+    <MortgagePayment>21685</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -196,9 +146,9 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>6047500</Price>
+      <Price>6227196</Price>
       <Currency>rur</Currency>
-      <OldPrice>6047500</OldPrice>
+      <OldPrice>6227196</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -220,7 +170,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>23819</MortgagePayment>
+    <MortgagePayment>24527</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -246,9 +196,9 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>6840000</Price>
+      <Price>7043171</Price>
       <Currency>rur</Currency>
-      <OldPrice>6840000</OldPrice>
+      <OldPrice>7043171</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -270,7 +220,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>23889</MortgagePayment>
+    <MortgagePayment>24598</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -296,59 +246,9 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>6860000</Price>
+      <Price>7063766</Price>
       <Currency>rur</Currency>
-      <OldPrice>6860000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>19588285-9b1e-461d-8bd1-fd4c0190332e</ExternalId>
-    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.4 м², этаж 4, секция 2, корпус Корпус 5. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-5-1-komnatnaya-kvartira-34.1m-k130</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>1</FlatRoomsCount>
-    <TotalArea>34.4</TotalArea>
-    <LivingArea>14.1</LivingArea>
-    <KitchenArea>8.1</KitchenArea>
-    <FloorNumber>4</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>23958</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 5</Name>
-        <Flat>
-          <FlatNumber>К130</FlatNumber>
-          <SectionNumber>2</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 5</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/b6c1/cccb/b6c1cccbe3f45b4f94becf697ab0e5ab.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/b6c1/cccb/b6c1cccbe3f45b4f94becf697ab0e5ab.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>6880000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>6880000</OldPrice>
+      <OldPrice>7063766</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -370,7 +270,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>37967</MortgagePayment>
+    <MortgagePayment>39097</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -396,59 +296,9 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>10902800</Price>
+      <Price>11227158</Price>
       <Currency>rur</Currency>
-      <OldPrice>10902800</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>c3b79252-23b3-4622-97ce-b6ec7323e359</ExternalId>
-    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.5 м², этаж 2, секция 1, корпус Корпус 5. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-5-2-komnatnaya-kvartira-56.3m-k18</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>56.5</TotalArea>
-    <LivingArea>31.6</LivingArea>
-    <KitchenArea>6</KitchenArea>
-    <FloorNumber>2</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>38760</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 5</Name>
-        <Flat>
-          <FlatNumber>К18</FlatNumber>
-          <SectionNumber>1</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 5</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/9e09/735c/9e09735cbd9a5c23ac4bc49c98ae447b.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/9e09/735c/9e09735cbd9a5c23ac4bc49c98ae447b.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>11130500</Price>
-      <Currency>rur</Currency>
-      <OldPrice>11130500</OldPrice>
+      <OldPrice>11227158</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -470,7 +320,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>38829</MortgagePayment>
+    <MortgagePayment>39983</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -496,509 +346,9 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>11150200</Price>
+      <Price>11481655</Price>
       <Currency>rur</Currency>
-      <OldPrice>11150200</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>8d8d7857-b6c1-43a5-b556-1229dc62dd07</ExternalId>
-    <Description>ЖК "Легенда Коренево". Студия 29 м², этаж 7, секция 3, корпус Корпус 3. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.1m-k233</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>29</TotalArea>
-    <LivingArea>14.4</LivingArea>
-    <KitchenArea>5.5</KitchenArea>
-    <FloorNumber>7</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>29495</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 3</Name>
-        <Flat>
-          <FlatNumber>К233</FlatNumber>
-          <SectionNumber>3</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 3</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/c9f4/deac/c9f4deac84475163be4766c41170b99c.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/c9f4/deac/c9f4deac84475163be4766c41170b99c.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>8470000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>8470000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>fe52a957-9ef3-427d-a9cc-4a4dd19caa7c</ExternalId>
-    <Description>ЖК "Легенда Коренево". Студия 29.3 м², этаж 2, секция 2, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-2-kvartira-studia-29.1m-k92</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>29.3</TotalArea>
-    <LivingArea>14.4</LivingArea>
-    <KitchenArea>5.5</KitchenArea>
-    <FloorNumber>2</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>29621</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 2</Name>
-        <Flat>
-          <FlatNumber>К92</FlatNumber>
-          <SectionNumber>2</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 2</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/d193/e671/d193e6713c0f50e58c1b06bee9bc1942.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/d193/e671/d193e6713c0f50e58c1b06bee9bc1942.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>8506000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>8506000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>4de2d29c-aeea-4115-8d71-4943f410941d</ExternalId>
-    <Description>ЖК "Легенда Коренево". Студия 29.5 м², этаж 2, секция 3, корпус Корпус 3. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.5m-k175</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>29.5</TotalArea>
-    <LivingArea>15</LivingArea>
-    <KitchenArea>5.5</KitchenArea>
-    <FloorNumber>2</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>30021</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 3</Name>
-        <Flat>
-          <FlatNumber>К175</FlatNumber>
-          <SectionNumber>3</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 3</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/e778/c877/e778c87715ef559c9fa01998d185150e.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/e778/c877/e778c87715ef559c9fa01998d185150e.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>8621000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>8621000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>d0723f4f-599f-4508-952c-024288c9e463</ExternalId>
-    <Description>ЖК "Легенда Коренево". Студия 29.5 м², этаж 4, секция 1, корпус Корпус 3. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.5m-k30</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>29.5</TotalArea>
-    <LivingArea>15</LivingArea>
-    <KitchenArea>5.5</KitchenArea>
-    <FloorNumber>4</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>30063</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 3</Name>
-        <Flat>
-          <FlatNumber>К30</FlatNumber>
-          <SectionNumber>1</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 3</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/6502/09cb/650209cbb546580abcdc736ba0083d7b.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/6502/09cb/650209cbb546580abcdc736ba0083d7b.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>8633000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>8633000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>edd41ebd-8cd0-4409-8cb6-2832d4598610</ExternalId>
-    <Description>ЖК "Легенда Коренево". Студия 29.6 м², этаж 3, секция 1, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-2-kvartira-studia-29.5m-k18</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>29.6</TotalArea>
-    <LivingArea>15</LivingArea>
-    <KitchenArea>5.5</KitchenArea>
-    <FloorNumber>3</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>30157</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 2</Name>
-        <Flat>
-          <FlatNumber>К18</FlatNumber>
-          <SectionNumber>1</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 2</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/aa28/3636/aa283636cf075fe68959efdb3796a3d7.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/aa28/3636/aa283636cf075fe68959efdb3796a3d7.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>8660000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>8660000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>48de89e7-fa22-40a3-aa2a-d89faf998f9f</ExternalId>
-    <Description>ЖК "Легенда Коренево". Студия 29.1 м², этаж 4, секция 1, корпус Корпус 3. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.1m-k29</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>29.1</TotalArea>
-    <LivingArea>14.4</LivingArea>
-    <KitchenArea>5.5</KitchenArea>
-    <FloorNumber>4</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>32184</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 3</Name>
-        <Flat>
-          <FlatNumber>К29</FlatNumber>
-          <SectionNumber>1</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 3</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/0863/7f00/08637f004de05f4b9115cde7cc7f4bc2.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/0863/7f00/08637f004de05f4b9115cde7cc7f4bc2.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>9241989</Price>
-      <Currency>rur</Currency>
-      <OldPrice>9241989</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>e8ce6cd2-baa2-4130-b501-3e6eac932048</ExternalId>
-    <Description>ЖК "Легенда Коренево". Студия 29.3 м², этаж 2, секция 2, корпус Корпус 5. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-5-kvartira-studia-29.1m-k100</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>29.3</TotalArea>
-    <LivingArea>14.4</LivingArea>
-    <KitchenArea>5.5</KitchenArea>
-    <FloorNumber>2</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>32767</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 5</Name>
-        <Flat>
-          <FlatNumber>К100</FlatNumber>
-          <SectionNumber>2</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 5</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/2898/aee9/2898aee97e445692829a5269453f850e.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/2898/aee9/2898aee97e445692829a5269453f850e.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>9409470</Price>
-      <Currency>rur</Currency>
-      <OldPrice>9409470</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>40922d9b-0e5d-4682-8873-3e894bc3b8bc</ExternalId>
-    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.1 м², этаж 6, секция 1, корпус Корпус 4. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-4-1-komnatnaya-kvartira-34.1m-k59</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>1</FlatRoomsCount>
-    <TotalArea>34.1</TotalArea>
-    <LivingArea>14.1</LivingArea>
-    <KitchenArea>8.1</KitchenArea>
-    <FloorNumber>6</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>34388</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 4</Name>
-        <Flat>
-          <FlatNumber>К59</FlatNumber>
-          <SectionNumber>1</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 4</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/5105/acca/5105acca575f5c6eb48d9d94c8d10ff4.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/5105/acca/5105acca575f5c6eb48d9d94c8d10ff4.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>9875000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>9875000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>84f9a048-d93d-4536-87d1-fa76b281ca9c</ExternalId>
-    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.2 м², этаж 2, секция 2, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-2-1-komnatnaya-kvartira-34.1m-k95</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>1</FlatRoomsCount>
-    <TotalArea>34.2</TotalArea>
-    <LivingArea>14.1</LivingArea>
-    <KitchenArea>8.1</KitchenArea>
-    <FloorNumber>2</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>34468</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 2</Name>
-        <Flat>
-          <FlatNumber>К95</FlatNumber>
-          <SectionNumber>2</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 2</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/c518/4af8/c5184af852295062ab0f7cac5e1f6088.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/c518/4af8/c5184af852295062ab0f7cac5e1f6088.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>9898000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>9898000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>f1d6f3ef-88a3-47fe-9558-8f3f86f94072</ExternalId>
-    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.2 м², этаж 7, секция 2, корпус Корпус 4. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-4-1-komnatnaya-kvartira-34.1m-k155</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>1</FlatRoomsCount>
-    <TotalArea>34.2</TotalArea>
-    <LivingArea>14.1</LivingArea>
-    <KitchenArea>8.1</KitchenArea>
-    <FloorNumber>7</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>34517</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 4</Name>
-        <Flat>
-          <FlatNumber>К155</FlatNumber>
-          <SectionNumber>2</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 4</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/6300/97eb/630097eb23d65a368732517cd31e4e23.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/6300/97eb/630097eb23d65a368732517cd31e4e23.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>9912000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>9912000</OldPrice>
+      <OldPrice>11481655</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1019,7 +369,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>35045</MortgagePayment>
+    <MortgagePayment>21977</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1045,59 +395,159 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>10063530</Price>
+      <Price>6310980</Price>
       <Currency>rur</Currency>
-      <OldPrice>10063530</OldPrice>
+      <OldPrice>6310980</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>a24a28d9-5592-4c75-a9ef-3f21991bd523</ExternalId>
-    <Description>ЖК "Легенда Коренево". Студия 29.2 м², этаж 8, секция 1, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
+    <ExternalId>8d8d7857-b6c1-43a5-b556-1229dc62dd07</ExternalId>
+    <Description>ЖК "Легенда Коренево". Студия 29 м², этаж 7, секция 3, корпус Корпус 3. Срок сдачи: уточняйте.</Description>
     <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-2-kvartira-studia-29.1m-k77</Url>
+    <Url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.1m-k233</Url>
     <Coordinates>
       <Lat>55.677874</Lat>
       <Lng>38.001791</Lng>
     </Coordinates>
     <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>29.2</TotalArea>
+    <TotalArea>29</TotalArea>
     <LivingArea>14.4</LivingArea>
     <KitchenArea>5.5</KitchenArea>
-    <FloorNumber>8</FloorNumber>
+    <FloorNumber>7</FloorNumber>
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>35122</MortgagePayment>
+    <MortgagePayment>21977</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
-        <Name>Корпус 2</Name>
+        <Name>Корпус 3</Name>
         <Flat>
-          <FlatNumber>К77</FlatNumber>
+          <FlatNumber>К233</FlatNumber>
+          <SectionNumber>3</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 3</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/c9f4/deac/c9f4deac84475163be4766c41170b99c.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/c9f4/deac/c9f4deac84475163be4766c41170b99c.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>6310980</Price>
+      <Currency>rur</Currency>
+      <OldPrice>6310980</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>48de89e7-fa22-40a3-aa2a-d89faf998f9f</ExternalId>
+    <Description>ЖК "Легенда Коренево". Студия 29.1 м², этаж 4, секция 1, корпус Корпус 3. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.1m-k29</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>29.1</TotalArea>
+    <LivingArea>14.4</LivingArea>
+    <KitchenArea>5.5</KitchenArea>
+    <FloorNumber>4</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>22053</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 3</Name>
+        <Flat>
+          <FlatNumber>К29</FlatNumber>
           <SectionNumber>1</SectionNumber>
         </Flat>
       </House>
     </JKSchema>
     <Building>
-      <Name>Корпус 2</Name>
+      <Name>Корпус 3</Name>
     </Building>
     <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/9e09/8d9d/9e098d9d33485459a7f6d45532e85d81.png</FullUrl>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/0863/7f00/08637f004de05f4b9115cde7cc7f4bc2.png</FullUrl>
       <PhotoType>realtyObjectLayoutPhoto</PhotoType>
     </LayoutPhoto>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/9e09/8d9d/9e098d9d33485459a7f6d45532e85d81.png</FullUrl>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/0863/7f00/08637f004de05f4b9115cde7cc7f4bc2.png</FullUrl>
         <PhotoType>realtyObjectPhoto</PhotoType>
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>10085600</Price>
+      <Price>6332742</Price>
       <Currency>rur</Currency>
-      <OldPrice>10085600</OldPrice>
+      <OldPrice>6332742</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>e8ce6cd2-baa2-4130-b501-3e6eac932048</ExternalId>
+    <Description>ЖК "Легенда Коренево". Студия 29.3 м², этаж 2, секция 2, корпус Корпус 5. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-5-kvartira-studia-29.1m-k100</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>29.3</TotalArea>
+    <LivingArea>14.4</LivingArea>
+    <KitchenArea>5.5</KitchenArea>
+    <FloorNumber>2</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>22204</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 5</Name>
+        <Flat>
+          <FlatNumber>К100</FlatNumber>
+          <SectionNumber>2</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 5</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/2898/aee9/2898aee97e445692829a5269453f850e.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/2898/aee9/2898aee97e445692829a5269453f850e.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>6376266</Price>
+      <Currency>rur</Currency>
+      <OldPrice>6376266</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1119,7 +569,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>35247</MortgagePayment>
+    <MortgagePayment>22204</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1145,9 +595,59 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>10121620</Price>
+      <Price>6376266</Price>
       <Currency>rur</Currency>
-      <OldPrice>10121620</OldPrice>
+      <OldPrice>6376266</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>fe52a957-9ef3-427d-a9cc-4a4dd19caa7c</ExternalId>
+    <Description>ЖК "Легенда Коренево". Студия 29.3 м², этаж 2, секция 2, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-2-kvartira-studia-29.1m-k92</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>29.3</TotalArea>
+    <LivingArea>14.4</LivingArea>
+    <KitchenArea>5.5</KitchenArea>
+    <FloorNumber>2</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>22204</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 2</Name>
+        <Flat>
+          <FlatNumber>К92</FlatNumber>
+          <SectionNumber>2</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 2</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/d193/e671/d193e6713c0f50e58c1b06bee9bc1942.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/d193/e671/d193e6713c0f50e58c1b06bee9bc1942.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>6376266</Price>
+      <Currency>rur</Currency>
+      <OldPrice>6376266</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1169,7 +669,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>35422</MortgagePayment>
+    <MortgagePayment>22280</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1195,9 +695,59 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>10171740</Price>
+      <Price>6398028</Price>
       <Currency>rur</Currency>
-      <OldPrice>10171740</OldPrice>
+      <OldPrice>6398028</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>4de2d29c-aeea-4115-8d71-4943f410941d</ExternalId>
+    <Description>ЖК "Легенда Коренево". Студия 29.5 м², этаж 2, секция 3, корпус Корпус 3. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.5m-k175</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>29.5</TotalArea>
+    <LivingArea>15</LivingArea>
+    <KitchenArea>5.5</KitchenArea>
+    <FloorNumber>2</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>22356</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 3</Name>
+        <Flat>
+          <FlatNumber>К175</FlatNumber>
+          <SectionNumber>3</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 3</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/e778/c877/e778c87715ef559c9fa01998d185150e.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/e778/c877/e778c87715ef559c9fa01998d185150e.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>6419790</Price>
+      <Currency>rur</Currency>
+      <OldPrice>6419790</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1219,7 +769,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>35795</MortgagePayment>
+    <MortgagePayment>22432</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1245,39 +795,39 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>10278840</Price>
+      <Price>6441552</Price>
       <Currency>rur</Currency>
-      <OldPrice>10278840</OldPrice>
+      <OldPrice>6441552</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>38a0eaf6-33d1-4571-875b-c0a097b1e7ee</ExternalId>
-    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.4 м², этаж 7, секция 2, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
+    <ExternalId>edd41ebd-8cd0-4409-8cb6-2832d4598610</ExternalId>
+    <Description>ЖК "Легенда Коренево". Студия 29.6 м², этаж 3, секция 1, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
     <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-2-1-komnatnaya-kvartira-34.4m-k145</Url>
+    <Url>https://legendakorenevo.ru/flats/korpus-2-kvartira-studia-29.5m-k18</Url>
     <Coordinates>
       <Lat>55.677874</Lat>
       <Lng>38.001791</Lng>
     </Coordinates>
-    <FlatRoomsCount>1</FlatRoomsCount>
-    <TotalArea>34.4</TotalArea>
-    <LivingArea>14.1</LivingArea>
-    <KitchenArea>8.1</KitchenArea>
-    <FloorNumber>7</FloorNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>29.6</TotalArea>
+    <LivingArea>15</LivingArea>
+    <KitchenArea>5.5</KitchenArea>
+    <FloorNumber>3</FloorNumber>
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>37140</MortgagePayment>
+    <MortgagePayment>22432</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 2</Name>
         <Flat>
-          <FlatNumber>К145</FlatNumber>
-          <SectionNumber>2</SectionNumber>
+          <FlatNumber>К18</FlatNumber>
+          <SectionNumber>1</SectionNumber>
         </Flat>
       </House>
     </JKSchema>
@@ -1285,28 +835,28 @@
       <Name>Корпус 2</Name>
     </Building>
     <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/1771/1c9d/17711c9de2085082ab182016ae1238ac.png</FullUrl>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/aa28/3636/aa283636cf075fe68959efdb3796a3d7.png</FullUrl>
       <PhotoType>realtyObjectLayoutPhoto</PhotoType>
     </LayoutPhoto>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/1771/1c9d/17711c9de2085082ab182016ae1238ac.png</FullUrl>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/aa28/3636/aa283636cf075fe68959efdb3796a3d7.png</FullUrl>
         <PhotoType>realtyObjectPhoto</PhotoType>
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>10665135</Price>
+      <Price>6441552</Price>
       <Currency>rur</Currency>
-      <OldPrice>10665135</OldPrice>
+      <OldPrice>6441552</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>cec27515-5d93-4ca3-bf76-dc30494e784c</ExternalId>
-    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.2 м², этаж 4, секция 1, корпус Корпус 1. Срок сдачи: уточняйте.</Description>
+    <ExternalId>84f9a048-d93d-4536-87d1-fa76b281ca9c</ExternalId>
+    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.2 м², этаж 2, секция 2, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
     <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-1-1-komnatnaya-kvartira-34.1m-k26</Url>
+    <Url>https://legendakorenevo.ru/flats/korpus-2-1-komnatnaya-kvartira-34.1m-k95</Url>
     <Coordinates>
       <Lat>55.677874</Lat>
       <Lng>38.001791</Lng>
@@ -1315,39 +865,89 @@
     <TotalArea>34.2</TotalArea>
     <LivingArea>14.1</LivingArea>
     <KitchenArea>8.1</KitchenArea>
-    <FloorNumber>4</FloorNumber>
+    <FloorNumber>2</FloorNumber>
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>38206</MortgagePayment>
+    <MortgagePayment>25285</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
-        <Name>Корпус 1</Name>
+        <Name>Корпус 2</Name>
         <Flat>
-          <FlatNumber>К26</FlatNumber>
-          <SectionNumber>1</SectionNumber>
+          <FlatNumber>К95</FlatNumber>
+          <SectionNumber>2</SectionNumber>
         </Flat>
       </House>
     </JKSchema>
     <Building>
-      <Name>Корпус 1</Name>
+      <Name>Корпус 2</Name>
     </Building>
     <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/5f89/94d1/5f8994d18bec55cebfae6cb48d5c3518.png</FullUrl>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/c518/4af8/c5184af852295062ab0f7cac5e1f6088.png</FullUrl>
       <PhotoType>realtyObjectLayoutPhoto</PhotoType>
     </LayoutPhoto>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/5f89/94d1/5f8994d18bec55cebfae6cb48d5c3518.png</FullUrl>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/c518/4af8/c5184af852295062ab0f7cac5e1f6088.png</FullUrl>
         <PhotoType>realtyObjectPhoto</PhotoType>
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>10971444</Price>
+      <Price>7261002</Price>
       <Currency>rur</Currency>
-      <OldPrice>10971444</OldPrice>
+      <OldPrice>7261002</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>f1d6f3ef-88a3-47fe-9558-8f3f86f94072</ExternalId>
+    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.2 м², этаж 7, секция 2, корпус Корпус 4. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-4-1-komnatnaya-kvartira-34.1m-k155</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>1</FlatRoomsCount>
+    <TotalArea>34.2</TotalArea>
+    <LivingArea>14.1</LivingArea>
+    <KitchenArea>8.1</KitchenArea>
+    <FloorNumber>7</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>25285</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 4</Name>
+        <Flat>
+          <FlatNumber>К155</FlatNumber>
+          <SectionNumber>2</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 4</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/6300/97eb/630097eb23d65a368732517cd31e4e23.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/6300/97eb/630097eb23d65a368732517cd31e4e23.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>7261002</Price>
+      <Currency>rur</Currency>
+      <OldPrice>7261002</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1369,7 +969,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>41063</MortgagePayment>
+    <MortgagePayment>25359</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1395,9 +995,9 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>11791600</Price>
+      <Price>7282233</Price>
       <Currency>rur</Currency>
-      <OldPrice>11791600</OldPrice>
+      <OldPrice>7282233</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1419,7 +1019,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>41097</MortgagePayment>
+    <MortgagePayment>25359</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1445,9 +1045,9 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>11801440</Price>
+      <Price>7282233</Price>
       <Currency>rur</Currency>
-      <OldPrice>11801440</OldPrice>
+      <OldPrice>7282233</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1469,7 +1069,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>41097</MortgagePayment>
+    <MortgagePayment>25359</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1495,9 +1095,109 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>11801440</Price>
+      <Price>7282233</Price>
       <Currency>rur</Currency>
-      <OldPrice>11801440</OldPrice>
+      <OldPrice>7282233</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>a24a28d9-5592-4c75-a9ef-3f21991bd523</ExternalId>
+    <Description>ЖК "Легенда Коренево". Студия 29.2 м², этаж 8, секция 1, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-2-kvartira-studia-29.1m-k77</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>29.2</TotalArea>
+    <LivingArea>14.4</LivingArea>
+    <KitchenArea>5.5</KitchenArea>
+    <FloorNumber>8</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>fine</FinishingType>
+    <MortgagePayment>26908</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 2</Name>
+        <Flat>
+          <FlatNumber>К77</FlatNumber>
+          <SectionNumber>1</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 2</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/9e09/8d9d/9e098d9d33485459a7f6d45532e85d81.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/9e09/8d9d/9e098d9d33485459a7f6d45532e85d81.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>7726904</Price>
+      <Currency>rur</Currency>
+      <OldPrice>7726904</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>d0723f4f-599f-4508-952c-024288c9e463</ExternalId>
+    <Description>ЖК "Легенда Коренево". Студия 29.5 м², этаж 4, секция 1, корпус Корпус 3. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.5m-k30</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>29.5</TotalArea>
+    <LivingArea>15</LivingArea>
+    <KitchenArea>5.5</KitchenArea>
+    <FloorNumber>4</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>fine</FinishingType>
+    <MortgagePayment>27184</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 3</Name>
+        <Flat>
+          <FlatNumber>К30</FlatNumber>
+          <SectionNumber>1</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 3</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/6502/09cb/650209cbb546580abcdc736ba0083d7b.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/6502/09cb/650209cbb546580abcdc736ba0083d7b.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>7806290</Price>
+      <Currency>rur</Currency>
+      <OldPrice>7806290</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1519,7 +1219,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>41188</MortgagePayment>
+    <MortgagePayment>27262</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1545,109 +1245,9 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>11827550</Price>
+      <Price>7828632</Price>
       <Currency>rur</Currency>
-      <OldPrice>11827550</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>6cbe31f9-9e9c-4909-9811-e51b90906e05</ExternalId>
-    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.4 м², этаж 6, секция 1, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-2-1-komnatnaya-kvartira-34.4m-k60</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>1</FlatRoomsCount>
-    <TotalArea>34.4</TotalArea>
-    <LivingArea>14.1</LivingArea>
-    <KitchenArea>8.1</KitchenArea>
-    <FloorNumber>6</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>41222</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 2</Name>
-        <Flat>
-          <FlatNumber>К60</FlatNumber>
-          <SectionNumber>1</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 2</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/baa9/dd78/baa9dd78d01257a29fa714f435e56091.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/baa9/dd78/baa9dd78d01257a29fa714f435e56091.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>11837420</Price>
-      <Currency>rur</Currency>
-      <OldPrice>11837420</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>3e2d3244-d9df-48c4-a684-29397f6fde08</ExternalId>
-    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.4 м², этаж 6, секция 1, корпус Корпус 5. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-5-1-komnatnaya-kvartira-34.4m-k54</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>1</FlatRoomsCount>
-    <TotalArea>34.4</TotalArea>
-    <LivingArea>14.1</LivingArea>
-    <KitchenArea>8.1</KitchenArea>
-    <FloorNumber>6</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>41245</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 5</Name>
-        <Flat>
-          <FlatNumber>К54</FlatNumber>
-          <SectionNumber>1</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 5</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/ada8/0f2d/ada80f2dd7e55bec91c21819e4dc883d.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/ada8/0f2d/ada80f2dd7e55bec91c21819e4dc883d.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>11844000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>11844000</OldPrice>
+      <OldPrice>7828632</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1669,7 +1269,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>41438</MortgagePayment>
+    <MortgagePayment>27421</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1695,9 +1295,109 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>11899450</Price>
+      <Price>7874280</Price>
       <Currency>rur</Currency>
-      <OldPrice>11899450</OldPrice>
+      <OldPrice>7874280</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>40922d9b-0e5d-4682-8873-3e894bc3b8bc</ExternalId>
+    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.1 м², этаж 6, секция 1, корпус Корпус 4. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-4-1-komnatnaya-kvartira-34.1m-k59</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>1</FlatRoomsCount>
+    <TotalArea>34.1</TotalArea>
+    <LivingArea>14.1</LivingArea>
+    <KitchenArea>8.1</KitchenArea>
+    <FloorNumber>6</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>fine</FinishingType>
+    <MortgagePayment>30793</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 4</Name>
+        <Flat>
+          <FlatNumber>К59</FlatNumber>
+          <SectionNumber>1</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 4</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/5105/acca/5105acca575f5c6eb48d9d94c8d10ff4.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/5105/acca/5105acca575f5c6eb48d9d94c8d10ff4.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>8842471</Price>
+      <Currency>rur</Currency>
+      <OldPrice>8842471</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>3e2d3244-d9df-48c4-a684-29397f6fde08</ExternalId>
+    <Description>ЖК "Легенда Коренево". 1-комнатная квартира 34.4 м², этаж 6, секция 1, корпус Корпус 5. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-5-1-komnatnaya-kvartira-34.4m-k54</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>1</FlatRoomsCount>
+    <TotalArea>34.4</TotalArea>
+    <LivingArea>14.1</LivingArea>
+    <KitchenArea>8.1</KitchenArea>
+    <FloorNumber>6</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>fine</FinishingType>
+    <MortgagePayment>32972</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 5</Name>
+        <Flat>
+          <FlatNumber>К54</FlatNumber>
+          <SectionNumber>1</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 5</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/ada8/0f2d/ada80f2dd7e55bec91c21819e4dc883d.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/ada8/0f2d/ada80f2dd7e55bec91c21819e4dc883d.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>9468256</Price>
+      <Currency>rur</Currency>
+      <OldPrice>9468256</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1719,7 +1419,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>56460</MortgagePayment>
+    <MortgagePayment>40929</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1745,209 +1445,9 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>16125000</Price>
+      <Price>11753106</Price>
       <Currency>rur</Currency>
-      <OldPrice>16125000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>4092b9a9-d85b-4655-8944-1cb78aa6ce36</ExternalId>
-    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.5 м², этаж 5, секция 1, корпус Корпус 4. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-4-2-komnatnaya-kvartira-56.2m-k39</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>56.5</TotalArea>
-    <LivingArea>31.6</LivingArea>
-    <KitchenArea>6</KitchenArea>
-    <FloorNumber>5</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>56558</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 4</Name>
-        <Flat>
-          <FlatNumber>К39</FlatNumber>
-          <SectionNumber>1</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 4</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/9814/38f7/981438f7759552239d288c2f28a4e4b4.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/9814/38f7/981438f7759552239d288c2f28a4e4b4.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>16153000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>16153000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>e5ad76aa-b6a0-45e5-81bc-31dadf41c25f</ExternalId>
-    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.4 м², этаж 4, секция 1, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-2-2-komnatnaya-kvartira-56.2m-k27</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>56.4</TotalArea>
-    <LivingArea>31.6</LivingArea>
-    <KitchenArea>6</KitchenArea>
-    <FloorNumber>4</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>56698</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 2</Name>
-        <Flat>
-          <FlatNumber>К27</FlatNumber>
-          <SectionNumber>1</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 2</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/ec92/c03b/ec92c03b329a58cfbc8154f903518d10.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/ec92/c03b/ec92c03b329a58cfbc8154f903518d10.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>16193000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>16193000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>7bbbfb93-19e7-4082-9b42-0cbad376892a</ExternalId>
-    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.7 м², этаж 5, секция 2, корпус Корпус 5. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-5-2-komnatnaya-kvartira-56.3m-k134</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>56.7</TotalArea>
-    <LivingArea>31.6</LivingArea>
-    <KitchenArea>6</KitchenArea>
-    <FloorNumber>5</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>57280</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 5</Name>
-        <Flat>
-          <FlatNumber>К134</FlatNumber>
-          <SectionNumber>2</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 5</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/45fe/dc14/45fedc14ee2956f690c641f8678749d0.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/45fe/dc14/45fedc14ee2956f690c641f8678749d0.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>16359000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>16359000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>117e91e6-65f7-4b63-b2f5-5ef4fcc64825</ExternalId>
-    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.5 м², этаж 5, секция 1, корпус Корпус 1. Срок сдачи: уточняйте.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-1-2-komnatnaya-kvartira-56.3m-k39</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>56.5</TotalArea>
-    <LivingArea>31.6</LivingArea>
-    <KitchenArea>6</KitchenArea>
-    <FloorNumber>5</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>65405</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 1</Name>
-        <Flat>
-          <FlatNumber>К39</FlatNumber>
-          <SectionNumber>1</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 1</Name>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/6540/3361/65403361bdb5543e92ea28d586eb9480.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/6540/3361/65403361bdb5543e92ea28d586eb9480.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>18679600</Price>
-      <Currency>rur</Currency>
-      <OldPrice>18679600</OldPrice>
+      <OldPrice>11753106</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1969,7 +1469,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>65424</MortgagePayment>
+    <MortgagePayment>41074</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -1995,18 +1495,18 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>18684960</Price>
+      <Price>11794932</Price>
       <Currency>rur</Currency>
-      <OldPrice>18684960</OldPrice>
+      <OldPrice>11794932</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>ce9f138e-8bb2-4147-b29c-0aaecd72bf25</ExternalId>
-    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.4 м², этаж 5, секция 2, корпус Корпус 4. Срок сдачи: уточняйте.</Description>
+    <ExternalId>e5ad76aa-b6a0-45e5-81bc-31dadf41c25f</ExternalId>
+    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.4 м², этаж 4, секция 1, корпус Корпус 2. Срок сдачи: уточняйте.</Description>
     <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-4-2-komnatnaya-kvartira-56.3m-k130</Url>
+    <Url>https://legendakorenevo.ru/flats/korpus-2-2-komnatnaya-kvartira-56.2m-k27</Url>
     <Coordinates>
       <Lat>55.677874</Lat>
       <Lng>38.001791</Lng>
@@ -2015,19 +1515,69 @@
     <TotalArea>56.4</TotalArea>
     <LivingArea>31.6</LivingArea>
     <KitchenArea>6</KitchenArea>
+    <FloorNumber>4</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>41074</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 2</Name>
+        <Flat>
+          <FlatNumber>К27</FlatNumber>
+          <SectionNumber>1</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 2</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/ec92/c03b/ec92c03b329a58cfbc8154f903518d10.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/ec92/c03b/ec92c03b329a58cfbc8154f903518d10.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>11794932</Price>
+      <Currency>rur</Currency>
+      <OldPrice>11794932</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>4092b9a9-d85b-4655-8944-1cb78aa6ce36</ExternalId>
+    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.5 м², этаж 5, секция 1, корпус Корпус 4. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-4-2-komnatnaya-kvartira-56.2m-k39</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>2</FlatRoomsCount>
+    <TotalArea>56.5</TotalArea>
+    <LivingArea>31.6</LivingArea>
+    <KitchenArea>6</KitchenArea>
     <FloorNumber>5</FloorNumber>
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>65424</MortgagePayment>
+    <MortgagePayment>41147</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
       <House>
         <Name>Корпус 4</Name>
         <Flat>
-          <FlatNumber>К130</FlatNumber>
-          <SectionNumber>2</SectionNumber>
+          <FlatNumber>К39</FlatNumber>
+          <SectionNumber>1</SectionNumber>
         </Flat>
       </House>
     </JKSchema>
@@ -2035,19 +1585,69 @@
       <Name>Корпус 4</Name>
     </Building>
     <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/3db7/e795/3db7e795ba6a55628fe44a5b54989215.png</FullUrl>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/9814/38f7/981438f7759552239d288c2f28a4e4b4.png</FullUrl>
       <PhotoType>realtyObjectLayoutPhoto</PhotoType>
     </LayoutPhoto>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/3db7/e795/3db7e795ba6a55628fe44a5b54989215.png</FullUrl>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/9814/38f7/981438f7759552239d288c2f28a4e4b4.png</FullUrl>
         <PhotoType>realtyObjectPhoto</PhotoType>
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>18684960</Price>
+      <Price>11815845</Price>
       <Currency>rur</Currency>
-      <OldPrice>18684960</OldPrice>
+      <OldPrice>11815845</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>7bbbfb93-19e7-4082-9b42-0cbad376892a</ExternalId>
+    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.7 м², этаж 5, секция 2, корпус Корпус 5. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-5-2-komnatnaya-kvartira-56.3m-k134</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>2</FlatRoomsCount>
+    <TotalArea>56.7</TotalArea>
+    <LivingArea>31.6</LivingArea>
+    <KitchenArea>6</KitchenArea>
+    <FloorNumber>5</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>41293</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 5</Name>
+        <Flat>
+          <FlatNumber>К134</FlatNumber>
+          <SectionNumber>2</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 5</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/45fe/dc14/45fedc14ee2956f690c641f8678749d0.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/45fe/dc14/45fedc14ee2956f690c641f8678749d0.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>11857671</Price>
+      <Currency>rur</Currency>
+      <OldPrice>11857671</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -2069,7 +1669,7 @@
     <CeilingHeight>2.72</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>65508</MortgagePayment>
+    <MortgagePayment>41356</MortgagePayment>
     <JKSchema>
       <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
       <Name>ЖК "Легенда Коренево"</Name>
@@ -2095,9 +1695,109 @@
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>18709080</Price>
+      <Price>11875735</Price>
       <Currency>rur</Currency>
-      <OldPrice>18709080</OldPrice>
+      <OldPrice>11875735</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>117e91e6-65f7-4b63-b2f5-5ef4fcc64825</ExternalId>
+    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.5 м², этаж 5, секция 1, корпус Корпус 1. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-1-2-komnatnaya-kvartira-56.3m-k39</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>2</FlatRoomsCount>
+    <TotalArea>56.5</TotalArea>
+    <LivingArea>31.6</LivingArea>
+    <KitchenArea>6</KitchenArea>
+    <FloorNumber>5</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>fine</FinishingType>
+    <MortgagePayment>49769</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 1</Name>
+        <Flat>
+          <FlatNumber>К39</FlatNumber>
+          <SectionNumber>1</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 1</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/6540/3361/65403361bdb5543e92ea28d586eb9480.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/6540/3361/65403361bdb5543e92ea28d586eb9480.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>14291675</Price>
+      <Currency>rur</Currency>
+      <OldPrice>14291675</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>ce9f138e-8bb2-4147-b29c-0aaecd72bf25</ExternalId>
+    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.4 м², этаж 5, секция 2, корпус Корпус 4. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-4-2-komnatnaya-kvartira-56.3m-k130</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>2</FlatRoomsCount>
+    <TotalArea>56.4</TotalArea>
+    <LivingArea>31.6</LivingArea>
+    <KitchenArea>6</KitchenArea>
+    <FloorNumber>5</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>fine</FinishingType>
+    <MortgagePayment>50305</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 4</Name>
+        <Flat>
+          <FlatNumber>К130</FlatNumber>
+          <SectionNumber>2</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 4</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/3db7/e795/3db7e795ba6a55628fe44a5b54989215.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/3db7/e795/3db7e795ba6a55628fe44a5b54989215.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>14445732</Price>
+      <Currency>rur</Currency>
+      <OldPrice>14445732</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
