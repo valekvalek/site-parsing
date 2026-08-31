@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-08-30T11:16:53.182Z</generated>
+  <generated>2026-08-31T12:43:55.011Z</generated>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>b2414936-7f0b-4660-bf56-8838d2fb4c5b</ExternalId>
@@ -988,7 +988,7 @@
     <FloorNumber>4</FloorNumber>
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
+    <FinishingType>fine</FinishingType>
     <MortgagePayment>37096.24</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
@@ -1039,7 +1039,7 @@
     <FloorNumber>2</FloorNumber>
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
+    <FinishingType>fine</FinishingType>
     <MortgagePayment>37096.24</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
@@ -1753,7 +1753,7 @@
     <FloorNumber>6</FloorNumber>
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
-    <FinishingType>no</FinishingType>
+    <FinishingType>fine</FinishingType>
     <MortgagePayment>53792.88</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
