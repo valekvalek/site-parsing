@@ -3215,6 +3215,35 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
+  <offer internal-id="19588285-9b1e-461d-8bd1-fd4c0190332e">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-5-1-komnatnaya-kvartira-34.1m-k130</url>
+    <image>https://legendakorenevo.ru/catalog/plans/b6c1/cccb/b6c1cccbe3f45b4f94becf697ab0e5ab.png</image>
+    <price>
+      <value>9468256</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>34.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.1</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>8.1</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>1</rooms>
+    <floor>4</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 1-комнатная квартира 34.4 м², этаж 4, секция 2, корпус Корпус 5. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
   <offer internal-id="3e2d3244-d9df-48c4-a684-29397f6fde08">
     <type>продажа</type>
     <category>квартира</category>
