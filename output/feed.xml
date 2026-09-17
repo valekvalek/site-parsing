@@ -3273,6 +3273,35 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
+  <offer internal-id="2e590397-3cfd-4096-b91f-b13bf45979d8">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendakorenevo.ru/flats/korpus-1-2-komnatnaya-kvartira-56.2m-k82</url>
+    <image>https://legendakorenevo.ru/catalog/plans/d053/ba4a/d053ba4a63b650349873d052ced62c62.png</image>
+    <price>
+      <value>11574390</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>56.2</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>31.6</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>6</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <floor>8</floor>
+    <ceiling-height>2.72</ceiling-height>
+    <description>ЖК "Легенда Коренево". 2-комнатная квартира 56.2 м², этаж 8, секция 1, корпус Корпус 1. Срок сдачи: уточняйте.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Коренево"</organization>
+    </sales-agent>
+  </offer>
   <offer internal-id="5439fc80-44a3-4935-a2e6-907e88bc5ffc">
     <type>продажа</type>
     <category>квартира</category>

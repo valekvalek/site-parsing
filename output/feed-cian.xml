@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-09-16T10:52:04.360Z</generated>
+  <generated>2026-09-17T10:59:13.721Z</generated>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>b2414936-7f0b-4660-bf56-8838d2fb4c5b</ExternalId>
@@ -5701,6 +5701,56 @@
       <Price>9468256</Price>
       <Currency>rur</Currency>
       <OldPrice>9468256</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>2e590397-3cfd-4096-b91f-b13bf45979d8</ExternalId>
+    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 56.2 м², этаж 8, секция 1, корпус Корпус 1. Срок сдачи: уточняйте.</Description>
+    <Status>available</Status>
+    <Url>https://legendakorenevo.ru/flats/korpus-1-2-komnatnaya-kvartira-56.2m-k82</Url>
+    <Coordinates>
+      <Lat>55.677874</Lat>
+      <Lng>38.001791</Lng>
+    </Coordinates>
+    <FlatRoomsCount>2</FlatRoomsCount>
+    <TotalArea>56.2</TotalArea>
+    <LivingArea>31.6</LivingArea>
+    <KitchenArea>6</KitchenArea>
+    <FloorNumber>8</FloorNumber>
+    <CeilingHeight>2.72</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>40306</MortgagePayment>
+    <JKSchema>
+      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
+      <Name>ЖК "Легенда Коренево"</Name>
+      <House>
+        <Name>Корпус 1</Name>
+        <Flat>
+          <FlatNumber>К82</FlatNumber>
+          <SectionNumber>1</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>Корпус 1</Name>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendakorenevo.ru/catalog/plans/d053/ba4a/d053ba4a63b650349873d052ced62c62.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendakorenevo.ru/catalog/plans/d053/ba4a/d053ba4a63b650349873d052ced62c62.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>11574390</Price>
+      <Currency>rur</Currency>
+      <OldPrice>11574390</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
