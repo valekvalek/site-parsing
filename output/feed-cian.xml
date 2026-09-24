@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-09-23T10:47:44.635Z</generated>
+  <generated>2026-09-24T11:08:08.400Z</generated>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>b2414936-7f0b-4660-bf56-8838d2fb4c5b</ExternalId>
@@ -101,57 +101,6 @@
       <Price>6101050</Price>
       <Currency>rur</Currency>
       <OldPrice>6101050</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>f95baf34-f3a3-4f35-a011-b65aa45dc63e</ExternalId>
-    <Description>ЖК "Легенда Марусино". Студия 30.7 м², этаж 3, секция 9, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/kvartira-studia-30.7m-k340</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>30.7</TotalArea>
-    <LivingArea>17</LivingArea>
-    <KitchenArea>4.3</KitchenArea>
-    <FloorNumber>3</FloorNumber>
-    <CeilingHeight>2.82</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>no</FinishingType>
-    <MortgagePayment>34199.72</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.2</Name>
-        <Flat>
-          <FlatNumber>К340</FlatNumber>
-          <SectionNumber>9</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.2</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/46b87a687cc64a3e86d9a7349ab412c5.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/46b87a687cc64a3e86d9a7349ab412c5.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>6796758</Price>
-      <Currency>rur</Currency>
-      <OldPrice>6796758</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1478,57 +1427,6 @@
       <Price>9134100</Price>
       <Currency>rur</Currency>
       <OldPrice>9134100</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>feacae86-afa1-4237-b257-4857009ec7d1</ExternalId>
-    <Description>ЖК "Легенда Марусино". Студия 30.8 м², этаж 2, секция 9, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/kvartira-studia-30.8m-k333</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>30.8</TotalArea>
-    <LivingArea>17</LivingArea>
-    <KitchenArea>4.3</KitchenArea>
-    <FloorNumber>2</FloorNumber>
-    <CeilingHeight>2.82</CeilingHeight>
-    <HasBalcony>true</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>46261.09</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.2</Name>
-        <Flat>
-          <FlatNumber>К333</FlatNumber>
-          <SectionNumber>9</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.2</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/27619b7357294204af365203db9775ae.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/27619b7357294204af365203db9775ae.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>9193800</Price>
-      <Currency>rur</Currency>
-      <OldPrice>9193800</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
