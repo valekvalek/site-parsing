@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-10-09T12:35:35.002Z</generated>
+  <generated>2026-10-10T11:56:01.228Z</generated>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>16c5f389-4cb8-4b31-abb8-8c76b85eb5a9</ExternalId>
@@ -20,7 +20,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>33518.43</MortgagePayment>
+    <MortgagePayment>35476.75</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -71,7 +71,7 @@
     <CeilingHeight>4.02</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>35796.08</MortgagePayment>
+    <MortgagePayment>37887.48</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -122,7 +122,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>45553.01</MortgagePayment>
+    <MortgagePayment>48214.46</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -173,7 +173,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>46330.74</MortgagePayment>
+    <MortgagePayment>49037.63</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -224,7 +224,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>48108.42</MortgagePayment>
+    <MortgagePayment>50919.17</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -275,7 +275,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>53538.85</MortgagePayment>
+    <MortgagePayment>56666.88</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -326,7 +326,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>65329.68</MortgagePayment>
+    <MortgagePayment>69146.59</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -377,7 +377,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>66025.15</MortgagePayment>
+    <MortgagePayment>69882.7</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -428,7 +428,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>74875.62</MortgagePayment>
+    <MortgagePayment>79250.26</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -479,7 +479,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>no</FinishingType>
-    <MortgagePayment>81240.33</MortgagePayment>
+    <MortgagePayment>85986.83</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -530,7 +530,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>40269.25</MortgagePayment>
+    <MortgagePayment>42622</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -581,7 +581,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>40269.25</MortgagePayment>
+    <MortgagePayment>42622</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -632,7 +632,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>42458.07</MortgagePayment>
+    <MortgagePayment>44938.7</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -683,7 +683,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>42458.07</MortgagePayment>
+    <MortgagePayment>44938.7</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -734,7 +734,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>42458.07</MortgagePayment>
+    <MortgagePayment>44938.7</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -785,7 +785,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>42639.22</MortgagePayment>
+    <MortgagePayment>45130.43</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -836,7 +836,7 @@
     <CeilingHeight>3.12</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>42639.22</MortgagePayment>
+    <MortgagePayment>45130.43</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -887,7 +887,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>42639.22</MortgagePayment>
+    <MortgagePayment>45130.43</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -938,7 +938,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>42820.36</MortgagePayment>
+    <MortgagePayment>45322.16</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -989,7 +989,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>42820.36</MortgagePayment>
+    <MortgagePayment>45322.16</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1040,7 +1040,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>43006.54</MortgagePayment>
+    <MortgagePayment>45519.21</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1091,7 +1091,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>43006.54</MortgagePayment>
+    <MortgagePayment>45519.21</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1142,7 +1142,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>43006.54</MortgagePayment>
+    <MortgagePayment>45519.21</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1193,7 +1193,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>43187.68</MortgagePayment>
+    <MortgagePayment>45710.94</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1244,7 +1244,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>43917.29</MortgagePayment>
+    <MortgagePayment>46483.17</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1295,7 +1295,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>44460.72</MortgagePayment>
+    <MortgagePayment>47058.35</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1346,7 +1346,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>44828.04</MortgagePayment>
+    <MortgagePayment>47447.13</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1397,7 +1397,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>45009.18</MortgagePayment>
+    <MortgagePayment>47638.86</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1448,7 +1448,7 @@
     <CeilingHeight>4.99</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>46543.87</MortgagePayment>
+    <MortgagePayment>49263.22</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1499,7 +1499,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>55973.41</MortgagePayment>
+    <MortgagePayment>59243.68</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1550,7 +1550,7 @@
     <CeilingHeight>3.12</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>57784.84</MortgagePayment>
+    <MortgagePayment>61160.95</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1601,7 +1601,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>57935.8</MortgagePayment>
+    <MortgagePayment>61320.72</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1652,7 +1652,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>58237.7</MortgagePayment>
+    <MortgagePayment>61640.27</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1703,7 +1703,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>58539.61</MortgagePayment>
+    <MortgagePayment>61959.81</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1754,7 +1754,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>58690.56</MortgagePayment>
+    <MortgagePayment>62119.58</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1805,7 +1805,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>58841.52</MortgagePayment>
+    <MortgagePayment>62279.36</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1856,7 +1856,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>58841.52</MortgagePayment>
+    <MortgagePayment>62279.36</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1907,7 +1907,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>59596.28</MortgagePayment>
+    <MortgagePayment>63078.22</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -1958,7 +1958,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>59898.19</MortgagePayment>
+    <MortgagePayment>63397.76</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2009,7 +2009,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>59898.19</MortgagePayment>
+    <MortgagePayment>63397.76</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2060,7 +2060,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>59898.19</MortgagePayment>
+    <MortgagePayment>63397.76</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2111,7 +2111,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>59918.31</MortgagePayment>
+    <MortgagePayment>63419.07</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2162,7 +2162,7 @@
     <CeilingHeight>4.02</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>59918.31</MortgagePayment>
+    <MortgagePayment>63419.07</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2213,7 +2213,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60049.14</MortgagePayment>
+    <MortgagePayment>63557.54</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2264,7 +2264,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60366.14</MortgagePayment>
+    <MortgagePayment>63893.06</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2315,7 +2315,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60366.14</MortgagePayment>
+    <MortgagePayment>63893.06</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2366,7 +2366,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60366.14</MortgagePayment>
+    <MortgagePayment>63893.06</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2417,7 +2417,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60366.14</MortgagePayment>
+    <MortgagePayment>63893.06</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2468,7 +2468,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60366.14</MortgagePayment>
+    <MortgagePayment>63893.06</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2519,7 +2519,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60366.14</MortgagePayment>
+    <MortgagePayment>63893.06</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2570,7 +2570,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60366.14</MortgagePayment>
+    <MortgagePayment>63893.06</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2621,7 +2621,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60366.14</MortgagePayment>
+    <MortgagePayment>63893.06</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2672,7 +2672,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60366.14</MortgagePayment>
+    <MortgagePayment>63893.06</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2723,7 +2723,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60813.97</MortgagePayment>
+    <MortgagePayment>64367.05</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2774,7 +2774,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60813.97</MortgagePayment>
+    <MortgagePayment>64367.05</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2825,7 +2825,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>60813.97</MortgagePayment>
+    <MortgagePayment>64367.05</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2876,7 +2876,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>61709.63</MortgagePayment>
+    <MortgagePayment>65315.04</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2927,7 +2927,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62006.5</MortgagePayment>
+    <MortgagePayment>65629.26</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -2978,7 +2978,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62006.5</MortgagePayment>
+    <MortgagePayment>65629.26</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3029,7 +3029,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62006.5</MortgagePayment>
+    <MortgagePayment>65629.26</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3080,7 +3080,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62157.45</MortgagePayment>
+    <MortgagePayment>65789.03</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3131,7 +3131,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62157.45</MortgagePayment>
+    <MortgagePayment>65789.03</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3182,7 +3182,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62157.45</MortgagePayment>
+    <MortgagePayment>65789.03</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3233,7 +3233,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62157.45</MortgagePayment>
+    <MortgagePayment>65789.03</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3284,7 +3284,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62308.41</MortgagePayment>
+    <MortgagePayment>65948.8</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3335,7 +3335,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62459.36</MortgagePayment>
+    <MortgagePayment>66108.57</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3386,7 +3386,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62459.36</MortgagePayment>
+    <MortgagePayment>66108.57</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3437,7 +3437,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62756.23</MortgagePayment>
+    <MortgagePayment>66422.79</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3488,7 +3488,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62756.23</MortgagePayment>
+    <MortgagePayment>66422.79</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3539,7 +3539,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62756.23</MortgagePayment>
+    <MortgagePayment>66422.79</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3590,7 +3590,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62756.23</MortgagePayment>
+    <MortgagePayment>66422.79</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3641,7 +3641,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62756.23</MortgagePayment>
+    <MortgagePayment>66422.79</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3692,7 +3692,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>62756.23</MortgagePayment>
+    <MortgagePayment>66422.79</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3743,7 +3743,7 @@
     <CeilingHeight>4.02</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>63204.06</MortgagePayment>
+    <MortgagePayment>66896.78</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3794,7 +3794,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>63204.06</MortgagePayment>
+    <MortgagePayment>66896.78</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3845,7 +3845,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>63500.94</MortgagePayment>
+    <MortgagePayment>67211</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3896,7 +3896,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>63500.94</MortgagePayment>
+    <MortgagePayment>67211</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3947,7 +3947,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>63500.94</MortgagePayment>
+    <MortgagePayment>67211</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -3998,7 +3998,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>63651.89</MortgagePayment>
+    <MortgagePayment>67370.78</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4049,7 +4049,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>63651.89</MortgagePayment>
+    <MortgagePayment>67370.78</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4100,7 +4100,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>64401.62</MortgagePayment>
+    <MortgagePayment>68164.31</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4151,7 +4151,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>65443.2</MortgagePayment>
+    <MortgagePayment>69266.74</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4202,7 +4202,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>65443.2</MortgagePayment>
+    <MortgagePayment>69266.74</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4253,7 +4253,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>65443.2</MortgagePayment>
+    <MortgagePayment>69266.74</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4304,7 +4304,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>71285.08</MortgagePayment>
+    <MortgagePayment>75449.94</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4355,7 +4355,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>71285.08</MortgagePayment>
+    <MortgagePayment>75449.94</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4406,7 +4406,7 @@
     <CeilingHeight>4.99</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>77725.75</MortgagePayment>
+    <MortgagePayment>82266.91</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4457,7 +4457,7 @@
     <CeilingHeight>4.02</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>78591.21</MortgagePayment>
+    <MortgagePayment>83182.94</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4508,7 +4508,7 @@
     <CeilingHeight>4.99</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>82586.44</MortgagePayment>
+    <MortgagePayment>87411.59</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4559,7 +4559,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>82817.9</MortgagePayment>
+    <MortgagePayment>87656.57</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4610,7 +4610,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>84558.89</MortgagePayment>
+    <MortgagePayment>89499.28</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4661,7 +4661,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>84896.02</MortgagePayment>
+    <MortgagePayment>89856.11</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4712,7 +4712,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>84896.02</MortgagePayment>
+    <MortgagePayment>89856.11</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4763,7 +4763,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>85162.7</MortgagePayment>
+    <MortgagePayment>90138.37</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4814,7 +4814,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>85162.7</MortgagePayment>
+    <MortgagePayment>90138.37</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4865,7 +4865,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>85283.47</MortgagePayment>
+    <MortgagePayment>90266.19</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4916,7 +4916,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>85429.39</MortgagePayment>
+    <MortgagePayment>90420.64</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -4967,7 +4967,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>85575.31</MortgagePayment>
+    <MortgagePayment>90575.08</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5018,7 +5018,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>85575.31</MortgagePayment>
+    <MortgagePayment>90575.08</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5069,7 +5069,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>85801.74</MortgagePayment>
+    <MortgagePayment>90814.74</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5120,7 +5120,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>85801.74</MortgagePayment>
+    <MortgagePayment>90814.74</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5171,7 +5171,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>85826.9</MortgagePayment>
+    <MortgagePayment>90841.37</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5222,7 +5222,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>86063.39</MortgagePayment>
+    <MortgagePayment>91091.68</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5273,7 +5273,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>86063.39</MortgagePayment>
+    <MortgagePayment>91091.68</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5324,7 +5324,7 @@
     <CeilingHeight>4.02</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>87598.08</MortgagePayment>
+    <MortgagePayment>92716.04</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5375,7 +5375,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>88176.73</MortgagePayment>
+    <MortgagePayment>93328.5</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5426,7 +5426,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>88176.73</MortgagePayment>
+    <MortgagePayment>93328.5</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5477,7 +5477,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>88896.28</MortgagePayment>
+    <MortgagePayment>94090.08</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5528,7 +5528,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>89620.85</MortgagePayment>
+    <MortgagePayment>94856.99</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5579,7 +5579,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>89620.85</MortgagePayment>
+    <MortgagePayment>94856.99</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5630,7 +5630,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>89620.85</MortgagePayment>
+    <MortgagePayment>94856.99</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5681,7 +5681,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>90919.05</MortgagePayment>
+    <MortgagePayment>96231.03</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5732,7 +5732,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>90919.05</MortgagePayment>
+    <MortgagePayment>96231.03</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5783,7 +5783,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>90919.05</MortgagePayment>
+    <MortgagePayment>96231.03</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5834,7 +5834,7 @@
     <CeilingHeight>4.99</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>91049.87</MortgagePayment>
+    <MortgagePayment>96369.5</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5885,7 +5885,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>91064.97</MortgagePayment>
+    <MortgagePayment>96385.48</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5936,7 +5936,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>91064.97</MortgagePayment>
+    <MortgagePayment>96385.48</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -5987,7 +5987,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>94723.07</MortgagePayment>
+    <MortgagePayment>100257.3</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6038,7 +6038,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>94723.07</MortgagePayment>
+    <MortgagePayment>100257.3</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6089,7 +6089,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>94723.07</MortgagePayment>
+    <MortgagePayment>100257.3</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6140,7 +6140,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>94853.89</MortgagePayment>
+    <MortgagePayment>100395.77</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6191,7 +6191,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>94853.89</MortgagePayment>
+    <MortgagePayment>100395.77</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6242,7 +6242,7 @@
     <CeilingHeight>3.57</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>95246.37</MortgagePayment>
+    <MortgagePayment>100811.18</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6293,7 +6293,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>97173.54</MortgagePayment>
+    <MortgagePayment>102850.94</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6344,7 +6344,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>97304.36</MortgagePayment>
+    <MortgagePayment>102989.41</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6395,7 +6395,7 @@
     <CeilingHeight>4.99</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>99840.38</MortgagePayment>
+    <MortgagePayment>105673.59</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6446,7 +6446,7 @@
     <CeilingHeight>4.99</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>100363.68</MortgagePayment>
+    <MortgagePayment>106227.47</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6497,7 +6497,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>100937.3</MortgagePayment>
+    <MortgagePayment>106834.61</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6548,7 +6548,7 @@
     <CeilingHeight>2.82</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>101063.1</MortgagePayment>
+    <MortgagePayment>106967.75</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6599,7 +6599,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>101063.1</MortgagePayment>
+    <MortgagePayment>106967.75</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6650,7 +6650,7 @@
     <CeilingHeight>3.08</CeilingHeight>
     <HasBalcony>true</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>105571.56</MortgagePayment>
+    <MortgagePayment>111739.63</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
@@ -6701,7 +6701,7 @@
     <CeilingHeight>4.99</CeilingHeight>
     <HasBalcony>false</HasBalcony>
     <FinishingType>fine</FinishingType>
-    <MortgagePayment>110205.82</MortgagePayment>
+    <MortgagePayment>116644.64</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
