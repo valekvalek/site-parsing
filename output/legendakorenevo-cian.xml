@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-11-04T13:47:42.625Z</generated>
+  <generated>2026-11-05T13:59:46.465Z</generated>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>051cbb85-95e3-4d3b-b1d1-28d1cc759843</ExternalId>
@@ -399,57 +399,6 @@
     <Photos>
       <PhotoSchema>
         <FullUrl>https://legendakorenevo.ru/catalog/plans/45c6/1c61/45c61c61e8975bbc9bb87e1381f06db3.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>9659434</Price>
-      <Currency>rur</Currency>
-      <OldPrice>9659434</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>0e8d2a94-8a03-444f-9190-e2a04beda0b7</ExternalId>
-    <Description>ЖК "Легенда Коренево". Студия 28 м², этаж 3, секция 2, корпус Корпус 3. Срок сдачи: 2 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.1m-k104</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>28</TotalArea>
-    <LivingArea>14.4</LivingArea>
-    <KitchenArea>5.5</KitchenArea>
-    <FloorNumber>3</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>33638</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 3</Name>
-        <Flat>
-          <FlatNumber>К104</FlatNumber>
-          <SectionNumber>2</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 3</Name>
-      <Deadline>2 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/2572/8954/25728954be5d543d9b1952692115b483.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/2572/8954/25728954be5d543d9b1952692115b483.png</FullUrl>
         <PhotoType>realtyObjectPhoto</PhotoType>
       </PhotoSchema>
     </Photos>

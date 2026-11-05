@@ -228,35 +228,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="0e8d2a94-8a03-444f-9190-e2a04beda0b7">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.1m-k104</url>
-    <image>https://legendakorenevo.ru/catalog/plans/2572/8954/25728954be5d543d9b1952692115b483.png</image>
-    <price>
-      <value>9659434</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>28</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.4</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>5.5</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>0</rooms>
-    <floor>3</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". Студия 28 м², этаж 3, секция 2, корпус Корпус 3. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="1af0e932-9c5e-40c9-8d63-bf1a72a77e98">
     <type>продажа</type>
     <category>квартира</category>
