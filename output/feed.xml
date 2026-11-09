@@ -12980,35 +12980,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="adc965cd-3f1a-4eb8-92f6-3df97b504897">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-2-2-komnatnaya-kvartira-56.3m-k154</url>
-    <image>https://legendakorenevo.ru/catalog/plans/f8d0/646f/f8d0646f85dd53e88a5489f4fa1fd637.png</image>
-    <price>
-      <value>18217341</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>53.7</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>31.6</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>6</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>7</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 2-комнатная квартира 53.7 м², этаж 7, секция 2, корпус Корпус 2. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="c3b79252-23b3-4622-97ce-b6ec7323e359">
     <type>продажа</type>
     <category>квартира</category>

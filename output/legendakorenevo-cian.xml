@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-11-08T12:46:27.956Z</generated>
+  <generated>2026-11-09T15:12:55.309Z</generated>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>051cbb85-95e3-4d3b-b1d1-28d1cc759843</ExternalId>
@@ -16105,57 +16105,6 @@
     <Photos>
       <PhotoSchema>
         <FullUrl>https://legendakorenevo.ru/catalog/plans/468f/3665/468f366526905bdc9ce251c26c441bfb.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>18217341</Price>
-      <Currency>rur</Currency>
-      <OldPrice>18217341</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>adc965cd-3f1a-4eb8-92f6-3df97b504897</ExternalId>
-    <Description>ЖК "Легенда Коренево". 2-комнатная квартира 53.7 м², этаж 7, секция 2, корпус Корпус 2. Срок сдачи: 2 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendakorenevo.ru/flats/korpus-2-2-komnatnaya-kvartira-56.3m-k154</Url>
-    <Coordinates>
-      <Lat>55.677874</Lat>
-      <Lng>38.001791</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>53.7</TotalArea>
-    <LivingArea>31.6</LivingArea>
-    <KitchenArea>6</KitchenArea>
-    <FloorNumber>7</FloorNumber>
-    <CeilingHeight>2.72</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>83453</MortgagePayment>
-    <JKSchema>
-      <Id>61b193a5-aa22-4f3a-bf22-216ebc5648b1</Id>
-      <Name>ЖК "Легенда Коренево"</Name>
-      <House>
-        <Name>Корпус 2</Name>
-        <Flat>
-          <FlatNumber>К154</FlatNumber>
-          <SectionNumber>2</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>Корпус 2</Name>
-      <Deadline>2 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendakorenevo.ru/catalog/plans/f8d0/646f/f8d0646f85dd53e88a5489f4fa1fd637.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendakorenevo.ru/catalog/plans/f8d0/646f/f8d0646f85dd53e88a5489f4fa1fd637.png</FullUrl>
         <PhotoType>realtyObjectPhoto</PhotoType>
       </PhotoSchema>
     </Photos>
