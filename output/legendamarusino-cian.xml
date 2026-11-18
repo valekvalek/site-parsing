@@ -1,7 +1,466 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-11-17T15:30:17.075Z</generated>
+  <generated>2026-11-18T15:07:33.212Z</generated>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>16c5f389-4cb8-4b31-abb8-8c76b85eb5a9</ExternalId>
+    <Description>ЖК "Легенда Марусино". Студия 25.1 м², этаж 1, секция 3, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
+    <Status>available</Status>
+    <Url>https://legendamarusino.ru/flats/kvartira-studia-25.1m-k70</Url>
+    <Coordinates>
+      <Lat>55.693906</Lat>
+      <Lng>37.977366</Lng>
+    </Coordinates>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>25.1</TotalArea>
+    <LivingArea>11.8</LivingArea>
+    <KitchenArea>3.4</KitchenArea>
+    <FloorNumber>1</FloorNumber>
+    <CeilingHeight>3.57</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>35476.75</MortgagePayment>
+    <JKSchema>
+      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
+      <Name>ЖК "Легенда Марусино"</Name>
+      <House>
+        <Name>1.1</Name>
+        <Flat>
+          <FlatNumber>К70</FlatNumber>
+          <SectionNumber>3</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>1.1</Name>
+      <Deadline>4 кв. 2026</Deadline>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/ac2b44de1bfc466d83cc321edfd6556c.svg</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/ac2b44de1bfc466d83cc321edfd6556c.svg</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>6661359</Price>
+      <Currency>rur</Currency>
+      <OldPrice>6661359</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>c3412e5f-19c4-41c2-8815-cd896798c639</ExternalId>
+    <Description>ЖК "Легенда Марусино". Студия 30.6 м², этаж 1, секция 6, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
+    <Status>available</Status>
+    <Url>https://legendamarusino.ru/flats/kvartira-studia-30.6m-k235</Url>
+    <Coordinates>
+      <Lat>55.693906</Lat>
+      <Lng>37.977366</Lng>
+    </Coordinates>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>30.6</TotalArea>
+    <LivingArea>18.1</LivingArea>
+    <KitchenArea>4.3</KitchenArea>
+    <FloorNumber>1</FloorNumber>
+    <CeilingHeight>4.02</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>37887.48</MortgagePayment>
+    <JKSchema>
+      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
+      <Name>ЖК "Легенда Марусино"</Name>
+      <House>
+        <Name>1.2</Name>
+        <Flat>
+          <FlatNumber>К235</FlatNumber>
+          <SectionNumber>6</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>1.2</Name>
+      <Deadline>4 кв. 2026</Deadline>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/21a481143b3c4045a7ed00dcf6d344f9.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/21a481143b3c4045a7ed00dcf6d344f9.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>7114013</Price>
+      <Currency>rur</Currency>
+      <OldPrice>7114013</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>bfc2280e-3a26-4508-8197-693cf5821b15</ExternalId>
+    <Description>ЖК "Легенда Марусино". 1-комнатная квартира 41 м², этаж 6, секция 3, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
+    <Status>available</Status>
+    <Url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-41m-k108</Url>
+    <Coordinates>
+      <Lat>55.693906</Lat>
+      <Lng>37.977366</Lng>
+    </Coordinates>
+    <FlatRoomsCount>1</FlatRoomsCount>
+    <TotalArea>41</TotalArea>
+    <LivingArea>14.7</LivingArea>
+    <KitchenArea>14.1</KitchenArea>
+    <FloorNumber>6</FloorNumber>
+    <CeilingHeight>3.08</CeilingHeight>
+    <HasBalcony>true</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>48214.46</MortgagePayment>
+    <JKSchema>
+      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
+      <Name>ЖК "Легенда Марусино"</Name>
+      <House>
+        <Name>1.1</Name>
+        <Flat>
+          <FlatNumber>К108</FlatNumber>
+          <SectionNumber>3</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>1.1</Name>
+      <Deadline>4 кв. 2026</Deadline>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/dc2dfa07d3c94a5592b5e0b4c0f8c02c.svg</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/dc2dfa07d3c94a5592b5e0b4c0f8c02c.svg</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>9053079</Price>
+      <Currency>rur</Currency>
+      <OldPrice>9053079</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>2a402f77-dc36-4bbd-93ac-4fcf862b8e8f</ExternalId>
+    <Description>ЖК "Легенда Марусино". 1-комнатная квартира 41.7 м², этаж 6, секция 6, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
+    <Status>available</Status>
+    <Url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-41.7m-k274</Url>
+    <Coordinates>
+      <Lat>55.693906</Lat>
+      <Lng>37.977366</Lng>
+    </Coordinates>
+    <FlatRoomsCount>1</FlatRoomsCount>
+    <TotalArea>41.7</TotalArea>
+    <LivingArea>16.2</LivingArea>
+    <KitchenArea>14</KitchenArea>
+    <FloorNumber>6</FloorNumber>
+    <CeilingHeight>3.08</CeilingHeight>
+    <HasBalcony>true</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>49037.63</MortgagePayment>
+    <JKSchema>
+      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
+      <Name>ЖК "Легенда Марусино"</Name>
+      <House>
+        <Name>1.2</Name>
+        <Flat>
+          <FlatNumber>К274</FlatNumber>
+          <SectionNumber>6</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>1.2</Name>
+      <Deadline>4 кв. 2026</Deadline>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/2dbbd98f80fd4888b1cc63ea72f06243.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/2dbbd98f80fd4888b1cc63ea72f06243.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>9207643</Price>
+      <Currency>rur</Currency>
+      <OldPrice>9207643</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>3bc9ed54-56a4-4c87-9af5-9fc1c5b9e0c2</ExternalId>
+    <Description>ЖК "Легенда Марусино". 1-комнатная квартира 43.3 м², этаж 1, секция 8, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
+    <Status>available</Status>
+    <Url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-43.3m-k301</Url>
+    <Coordinates>
+      <Lat>55.693906</Lat>
+      <Lng>37.977366</Lng>
+    </Coordinates>
+    <FlatRoomsCount>1</FlatRoomsCount>
+    <TotalArea>43.3</TotalArea>
+    <LivingArea>17.1</LivingArea>
+    <KitchenArea>15.4</KitchenArea>
+    <FloorNumber>1</FloorNumber>
+    <CeilingHeight>3.57</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>50919.17</MortgagePayment>
+    <JKSchema>
+      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
+      <Name>ЖК "Легенда Марусино"</Name>
+      <House>
+        <Name>1.2</Name>
+        <Flat>
+          <FlatNumber>К301</FlatNumber>
+          <SectionNumber>8</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>1.2</Name>
+      <Deadline>4 кв. 2026</Deadline>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/e19ea35cd06d457b846284f8b0d609cd.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/e19ea35cd06d457b846284f8b0d609cd.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>9560934</Price>
+      <Currency>rur</Currency>
+      <OldPrice>9560934</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>ce5afc0a-2544-48b1-8753-43fd21fc0d77</ExternalId>
+    <Description>ЖК "Легенда Марусино". 1-комнатная квартира 48.9 м², этаж 2, секция 7, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
+    <Status>available</Status>
+    <Url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-48.9m-k281</Url>
+    <Coordinates>
+      <Lat>55.693906</Lat>
+      <Lng>37.977366</Lng>
+    </Coordinates>
+    <FlatRoomsCount>1</FlatRoomsCount>
+    <TotalArea>48.9</TotalArea>
+    <LivingArea>16.4</LivingArea>
+    <KitchenArea>15.8</KitchenArea>
+    <FloorNumber>2</FloorNumber>
+    <CeilingHeight>2.82</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>56666.88</MortgagePayment>
+    <JKSchema>
+      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
+      <Name>ЖК "Легенда Марусино"</Name>
+      <House>
+        <Name>1.2</Name>
+        <Flat>
+          <FlatNumber>К281</FlatNumber>
+          <SectionNumber>7</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>1.2</Name>
+      <Deadline>4 кв. 2026</Deadline>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/ab1abfa909134941984fb533c811a061.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/ab1abfa909134941984fb533c811a061.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>10640162</Price>
+      <Currency>rur</Currency>
+      <OldPrice>10640162</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>b0e70461-d94c-4cd4-adae-dfbe8e80298d</ExternalId>
+    <Description>ЖК "Легенда Марусино". 2-комнатная квартира 64 м², этаж 3, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
+    <Status>available</Status>
+    <Url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-64m-k199</Url>
+    <Coordinates>
+      <Lat>55.693906</Lat>
+      <Lng>37.977366</Lng>
+    </Coordinates>
+    <FlatRoomsCount>2</FlatRoomsCount>
+    <TotalArea>64</TotalArea>
+    <LivingArea>27.1</LivingArea>
+    <KitchenArea>13.4</KitchenArea>
+    <FloorNumber>3</FloorNumber>
+    <CeilingHeight>2.82</CeilingHeight>
+    <HasBalcony>true</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>69146.59</MortgagePayment>
+    <JKSchema>
+      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
+      <Name>ЖК "Легенда Марусино"</Name>
+      <House>
+        <Name>1.2</Name>
+        <Flat>
+          <FlatNumber>К199</FlatNumber>
+          <SectionNumber>5</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>1.2</Name>
+      <Deadline>4 кв. 2026</Deadline>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/60b6907bd7ef4b96aee12ad0c5b3d526.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/60b6907bd7ef4b96aee12ad0c5b3d526.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>12983439</Price>
+      <Currency>rur</Currency>
+      <OldPrice>12983439</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>3686b438-0cde-4db6-8bf8-e2e4fbfed224</ExternalId>
+    <Description>ЖК "Легенда Марусино". 2-комнатная квартира 65.4 м², этаж 2, секция 2, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
+    <Status>available</Status>
+    <Url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-65.4m-k38</Url>
+    <Coordinates>
+      <Lat>55.693906</Lat>
+      <Lng>37.977366</Lng>
+    </Coordinates>
+    <FlatRoomsCount>2</FlatRoomsCount>
+    <TotalArea>65.4</TotalArea>
+    <LivingArea>36.9</LivingArea>
+    <KitchenArea>5.9</KitchenArea>
+    <FloorNumber>2</FloorNumber>
+    <CeilingHeight>2.82</CeilingHeight>
+    <HasBalcony>false</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>69882.7</MortgagePayment>
+    <JKSchema>
+      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
+      <Name>ЖК "Легенда Марусино"</Name>
+      <House>
+        <Name>1.1</Name>
+        <Flat>
+          <FlatNumber>К38</FlatNumber>
+          <SectionNumber>2</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>1.1</Name>
+      <Deadline>4 кв. 2026</Deadline>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/f3c06349d4414f5682c2a4309d9ba7fe.svg</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/f3c06349d4414f5682c2a4309d9ba7fe.svg</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>13121656</Price>
+      <Currency>rur</Currency>
+      <OldPrice>13121656</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
+  <object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>2acfb867-0daf-43e2-b659-0080bc87190d</ExternalId>
+    <Description>ЖК "Легенда Марусино". 3-комнатная квартира 75 м², этаж 2, секция 8, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
+    <Status>available</Status>
+    <Url>https://legendamarusino.ru/flats/3-komnatnaya-kvartira-75m-k307</Url>
+    <Coordinates>
+      <Lat>55.693906</Lat>
+      <Lng>37.977366</Lng>
+    </Coordinates>
+    <FlatRoomsCount>3</FlatRoomsCount>
+    <TotalArea>75</TotalArea>
+    <LivingArea>46.6</LivingArea>
+    <KitchenArea>3.6</KitchenArea>
+    <FloorNumber>2</FloorNumber>
+    <CeilingHeight>2.82</CeilingHeight>
+    <HasBalcony>true</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>79250.26</MortgagePayment>
+    <JKSchema>
+      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
+      <Name>ЖК "Легенда Марусино"</Name>
+      <House>
+        <Name>1.2</Name>
+        <Flat>
+          <FlatNumber>К307</FlatNumber>
+          <SectionNumber>8</SectionNumber>
+        </Flat>
+      </House>
+    </JKSchema>
+    <Building>
+      <Name>1.2</Name>
+      <Deadline>4 кв. 2026</Deadline>
+    </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/869797a5d5c64b6faf9f46e1d1c4cc5b.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/869797a5d5c64b6faf9f46e1d1c4cc5b.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
+    <BargainTerms>
+      <Price>14880573</Price>
+      <Currency>rur</Currency>
+      <OldPrice>14880573</OldPrice>
+      <MortgageAllowed>true</MortgageAllowed>
+    </BargainTerms>
+  </object>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>5c19b5f7-25be-4145-a2a4-cb116a410b75</ExternalId>
@@ -298,57 +757,6 @@
     <Photos>
       <PhotoSchema>
         <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/84a703635c1a4e56b564ebdc30711958.svg</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>8757000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>8757000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>874f243f-6a32-4f17-838e-8d0557d54d8b</ExternalId>
-    <Description>ЖК "Легенда Марусино". Студия 23.4 м², этаж 7, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/kvartira-studia-23.4m-k172</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>23.4</TotalArea>
-    <LivingArea>12.5</LivingArea>
-    <KitchenArea>3.6</KitchenArea>
-    <FloorNumber>7</FloorNumber>
-    <CeilingHeight>3.12</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>46637.62</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.1</Name>
-        <Flat>
-          <FlatNumber>К172</FlatNumber>
-          <SectionNumber>4</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.1</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/4814b26b73ef4327a4827115e9c75a9e.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/4814b26b73ef4327a4827115e9c75a9e.png</FullUrl>
         <PhotoType>realtyObjectPhoto</PhotoType>
       </PhotoSchema>
     </Photos>
@@ -718,57 +1126,6 @@
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>0a9cf420-b96a-4dac-90f9-68427dd43044</ExternalId>
-    <Description>ЖК "Легенда Марусино". Студия 24.1 м², этаж 3, секция 2, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/kvartira-studia-24.1m-k43</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>24.1</TotalArea>
-    <LivingArea>13.3</LivingArea>
-    <KitchenArea>3.3</KitchenArea>
-    <FloorNumber>3</FloorNumber>
-    <CeilingHeight>2.82</CeilingHeight>
-    <HasBalcony>true</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>48032.97</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.1</Name>
-        <Flat>
-          <FlatNumber>К43</FlatNumber>
-          <SectionNumber>2</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.1</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/b6e28b0f6b6546a29876a43671ced768.svg</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/b6e28b0f6b6546a29876a43671ced768.svg</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>9019000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>9019000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
     <ExternalId>1b70731b-2b8b-4d99-9842-ac6674d48086</ExternalId>
     <Description>ЖК "Легенда Марусино". Студия 24.4 м², этаж 3, секция 1, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
     <Status>available</Status>
@@ -922,52 +1279,52 @@
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>82461483-95b8-4311-a947-428988459aab</ExternalId>
-    <Description>ЖК "Легенда Марусино". Студия 29.7 м², этаж 7, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
+    <ExternalId>0db1e376-7af9-47c1-88e3-5cf206548346</ExternalId>
+    <Description>ЖК "Легенда Марусино". 1-комнатная квартира 38.7 м², этаж 5, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
     <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/kvartira-studia-29.7m-k231</Url>
+    <Url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-38.7m-k155</Url>
     <Coordinates>
       <Lat>55.693906</Lat>
       <Lng>37.977366</Lng>
     </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>29.7</TotalArea>
-    <LivingArea>13.9</LivingArea>
-    <KitchenArea>2.2</KitchenArea>
-    <FloorNumber>7</FloorNumber>
-    <CeilingHeight>4.99</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>50903.55</MortgagePayment>
+    <FlatRoomsCount>1</FlatRoomsCount>
+    <TotalArea>38.7</TotalArea>
+    <LivingArea>15</LivingArea>
+    <KitchenArea>13.7</KitchenArea>
+    <FloorNumber>5</FloorNumber>
+    <CeilingHeight>2.82</CeilingHeight>
+    <HasBalcony>true</HasBalcony>
+    <FinishingType>no</FinishingType>
+    <MortgagePayment>60668.05</MortgagePayment>
     <JKSchema>
       <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
       <Name>ЖК "Легенда Марусино"</Name>
       <House>
-        <Name>1.2</Name>
+        <Name>1.1</Name>
         <Flat>
-          <FlatNumber>К231</FlatNumber>
-          <SectionNumber>5</SectionNumber>
+          <FlatNumber>К155</FlatNumber>
+          <SectionNumber>4</SectionNumber>
         </Flat>
       </House>
     </JKSchema>
     <Building>
-      <Name>1.2</Name>
+      <Name>1.1</Name>
       <Deadline>4 кв. 2026</Deadline>
     </Building>
     <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/b184663b73f04c92bc3bbfa711d7fdaa.png</FullUrl>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/a6e9d19ffbad43f888987c5350f66f00.png</FullUrl>
       <PhotoType>realtyObjectLayoutPhoto</PhotoType>
     </LayoutPhoto>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/b184663b73f04c92bc3bbfa711d7fdaa.png</FullUrl>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/a6e9d19ffbad43f888987c5350f66f00.png</FullUrl>
         <PhotoType>realtyObjectPhoto</PhotoType>
       </PhotoSchema>
     </Photos>
     <BargainTerms>
-      <Price>9558000</Price>
+      <Price>11391450</Price>
       <Currency>rur</Currency>
-      <OldPrice>9558000</OldPrice>
+      <OldPrice>11991000</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -1019,57 +1376,6 @@
       <Price>11496000</Price>
       <Currency>rur</Currency>
       <OldPrice>11496000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>01b33260-0ac6-47d0-87f9-22f55e97986a</ExternalId>
-    <Description>ЖК "Легенда Марусино". 1-комнатная квартира 38.3 м², этаж 7, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-38.3m-k171</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>1</FlatRoomsCount>
-    <TotalArea>38.3</TotalArea>
-    <LivingArea>15</LivingArea>
-    <KitchenArea>13.6</KitchenArea>
-    <FloorNumber>7</FloorNumber>
-    <CeilingHeight>3.12</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>63200.71</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.1</Name>
-        <Flat>
-          <FlatNumber>К171</FlatNumber>
-          <SectionNumber>4</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.1</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/c08fae92c6dd4b43b985b0588303fc34.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/c08fae92c6dd4b43b985b0588303fc34.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>11867000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>11867000</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -3217,57 +3523,6 @@
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>ed81f5e4-b96e-4b27-b434-0dbfb1896da4</ExternalId>
-    <Description>ЖК "Легенда Марусино". 1-комнатная квартира 42 м², этаж 5, секция 3, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-42m-k104</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>1</FlatRoomsCount>
-    <TotalArea>42</TotalArea>
-    <LivingArea>20.6</LivingArea>
-    <KitchenArea>12.5</KitchenArea>
-    <FloorNumber>5</FloorNumber>
-    <CeilingHeight>2.82</CeilingHeight>
-    <HasBalcony>true</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>68638.31</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.1</Name>
-        <Flat>
-          <FlatNumber>К104</FlatNumber>
-          <SectionNumber>3</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.1</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/b5119ee7201448efb1e9fef4c928d514.svg</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/b5119ee7201448efb1e9fef4c928d514.svg</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>12888000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>12888000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
     <ExternalId>2ac3cf48-8376-4044-b8bb-99399a3e8363</ExternalId>
     <Description>ЖК "Легенда Марусино". 1-комнатная квартира 42.3 м², этаж 1, секция 6, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
     <Status>available</Status>
@@ -3574,57 +3829,6 @@
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>4eef8121-ed78-4ec0-84c4-35a96212830f</ExternalId>
-    <Description>ЖК "Легенда Марусино". 2-комнатная квартира 43.1 м², этаж 6, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-43.1m-k163</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>43.1</TotalArea>
-    <LivingArea>28.5</LivingArea>
-    <KitchenArea>3.6</KitchenArea>
-    <FloorNumber>6</FloorNumber>
-    <CeilingHeight>2.82</CeilingHeight>
-    <HasBalcony>true</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>70438.41</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.1</Name>
-        <Flat>
-          <FlatNumber>К163</FlatNumber>
-          <SectionNumber>4</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.1</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/a0e7e6d4ceef4f62a0e1981a79a10251.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/a0e7e6d4ceef4f62a0e1981a79a10251.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>13226000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>13226000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
     <ExternalId>2faec2a2-70fc-4bea-b0e5-a7377fbed99e</ExternalId>
     <Description>ЖК "Легенда Марусино". 1-комнатная квартира 43.8 м², этаж 3, секция 7, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
     <Status>available</Status>
@@ -3880,57 +4084,6 @@
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>a6cb8461-1d4e-4823-bd3e-50a84effc27c</ExternalId>
-    <Description>ЖК "Легенда Марусино". Студия 49.6 м², этаж 7, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/kvartira-studia-49.6m-k174</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>0</FlatRoomsCount>
-    <TotalArea>49.6</TotalArea>
-    <LivingArea>27.5</LivingArea>
-    <KitchenArea>4</KitchenArea>
-    <FloorNumber>7</FloorNumber>
-    <CeilingHeight>4.99</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>85009.67</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.1</Name>
-        <Flat>
-          <FlatNumber>К174</FlatNumber>
-          <SectionNumber>4</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.1</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/3b270d72ea8a4b89956ba77d132b1678.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/3b270d72ea8a4b89956ba77d132b1678.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>15962000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>15962000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
     <ExternalId>e1787512-6825-4530-aae3-a05dd2890b97</ExternalId>
     <Description>ЖК "Легенда Марусино". 2-комнатная квартира 52.6 м², этаж 1, секция 6, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
     <Status>available</Status>
@@ -4033,57 +4186,6 @@
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>c5228f83-d532-418c-bdf8-a9449253b264</ExternalId>
-    <Description>ЖК "Легенда Марусино". 2-комнатная квартира 57.1 м², этаж 1, секция 3, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-57.1m-k72</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>57.1</TotalArea>
-    <LivingArea>29</LivingArea>
-    <KitchenArea>16</KitchenArea>
-    <FloorNumber>1</FloorNumber>
-    <CeilingHeight>3.57</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>90585.73</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.1</Name>
-        <Flat>
-          <FlatNumber>К72</FlatNumber>
-          <SectionNumber>3</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.1</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/35c0034dfc7646ca848d877872c24d33.svg</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/35c0034dfc7646ca848d877872c24d33.svg</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>17009000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>17009000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
     <ExternalId>92d700a9-9b92-4d66-b137-a33a0c81b8ab</ExternalId>
     <Description>ЖК "Легенда Марусино". 2-комнатная квартира 60.7 м², этаж 1, секция 6, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
     <Status>available</Status>
@@ -4181,57 +4283,6 @@
       <Price>17366000</Price>
       <Currency>rur</Currency>
       <OldPrice>17366000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>74b9596a-2bce-4c7d-8184-b00fd75dc990</ExternalId>
-    <Description>ЖК "Легенда Марусино". 2-комнатная квартира 64 м², этаж 2, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-64m-k189</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>64</TotalArea>
-    <LivingArea>27.1</LivingArea>
-    <KitchenArea>13.4</KitchenArea>
-    <FloorNumber>2</FloorNumber>
-    <CeilingHeight>2.82</CeilingHeight>
-    <HasBalcony>true</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>92854.5</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.2</Name>
-        <Flat>
-          <FlatNumber>К189</FlatNumber>
-          <SectionNumber>5</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.2</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/5ff362a6c4864e559b53fbab7005bf74.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/5ff362a6c4864e559b53fbab7005bf74.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>17435000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>17435000</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -4543,57 +4594,6 @@
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>f747333e-e2a3-44ed-94e3-29faaf006dc6</ExternalId>
-    <Description>ЖК "Легенда Марусино". 2-комнатная квартира 59 м², этаж 4, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-59m-k152</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>59</TotalArea>
-    <LivingArea>31.6</LivingArea>
-    <KitchenArea>13.1</KitchenArea>
-    <FloorNumber>4</FloorNumber>
-    <CeilingHeight>2.82</CeilingHeight>
-    <HasBalcony>true</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>93600.11</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.1</Name>
-        <Flat>
-          <FlatNumber>К152</FlatNumber>
-          <SectionNumber>4</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.1</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/306556cb21df422facaf033b4ac46aaf.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/306556cb21df422facaf033b4ac46aaf.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>17575000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>17575000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
     <ExternalId>025642a6-7009-4f96-9ac0-3f7bc59aa768</ExternalId>
     <Description>ЖК "Легенда Марусино". 2-комнатная квартира 65.4 м², этаж 4, секция 2, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
     <Status>available</Status>
@@ -4844,57 +4844,6 @@
       <Price>17675000</Price>
       <Currency>rur</Currency>
       <OldPrice>17675000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>f646f118-9325-43a9-8c57-9f95c1d74a25</ExternalId>
-    <Description>ЖК "Легенда Марусино". 2-комнатная квартира 69.4 м², этаж 7, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-69.4m-k176</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>69.4</TotalArea>
-    <LivingArea>38.2</LivingArea>
-    <KitchenArea>6.7</KitchenArea>
-    <FloorNumber>7</FloorNumber>
-    <CeilingHeight>4.99</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>94606.94</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.1</Name>
-        <Flat>
-          <FlatNumber>К176</FlatNumber>
-          <SectionNumber>4</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.1</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/8593eab00f254238b027be98fb9473cf.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/8593eab00f254238b027be98fb9473cf.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>17764050</Price>
-      <Currency>rur</Currency>
-      <OldPrice>18699000</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>
@@ -5869,108 +5818,6 @@
   </object>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>3d27f8c6-6de3-4ae2-90eb-85d608f5b6a7</ExternalId>
-    <Description>ЖК "Легенда Марусино". 2-комнатная квартира 76.1 м², этаж 7, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-76.1m-k233</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>76.1</TotalArea>
-    <LivingArea>45.7</LivingArea>
-    <KitchenArea>6.7</KitchenArea>
-    <FloorNumber>7</FloorNumber>
-    <CeilingHeight>4.99</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>109199.24</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.2</Name>
-        <Flat>
-          <FlatNumber>К233</FlatNumber>
-          <SectionNumber>5</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.2</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/c8898182ea8b402c9b753744b313a4e8.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/c8898182ea8b402c9b753744b313a4e8.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>20504000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>20504000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>09f3f49f-72a8-4c57-be06-24a3eabf7c9d</ExternalId>
-    <Description>ЖК "Легенда Марусино". 2-комнатная квартира 76.5 м², этаж 7, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-76.5m-k173</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>76.5</TotalArea>
-    <LivingArea>38.1</LivingArea>
-    <KitchenArea>8.4</KitchenArea>
-    <FloorNumber>7</FloorNumber>
-    <CeilingHeight>4.99</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>109774.42</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.1</Name>
-        <Flat>
-          <FlatNumber>К173</FlatNumber>
-          <SectionNumber>4</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.1</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/51da6971afcd430d839b4a37c8561468.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/51da6971afcd430d839b4a37c8561468.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>20612000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>20612000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
     <ExternalId>e82aa0bf-29b3-424a-bd1d-65ba146c7483</ExternalId>
     <Description>ЖК "Легенда Марусино". 3-комнатная квартира 77.8 м², этаж 3, секция 7, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
     <Status>available</Status>
@@ -6119,108 +5966,6 @@
       <Price>20756000</Price>
       <Currency>rur</Currency>
       <OldPrice>20756000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>c5b8b9fa-753c-440a-8206-eed42fb09185</ExternalId>
-    <Description>ЖК "Легенда Марусино". 3-комнатная квартира 82.3 м², этаж 4, секция 7, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/3-komnatnaya-kvartira-82.3m-k297</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>3</FlatRoomsCount>
-    <TotalArea>82.3</TotalArea>
-    <LivingArea>40.9</LivingArea>
-    <KitchenArea>15.8</KitchenArea>
-    <FloorNumber>4</FloorNumber>
-    <CeilingHeight>3.08</CeilingHeight>
-    <HasBalcony>true</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>115467.65</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.2</Name>
-        <Flat>
-          <FlatNumber>К297</FlatNumber>
-          <SectionNumber>7</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.2</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/eeb3f77e5e6f456687d6253f0c9f6198.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/eeb3f77e5e6f456687d6253f0c9f6198.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>21681000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>21681000</OldPrice>
-      <MortgageAllowed>true</MortgageAllowed>
-    </BargainTerms>
-  </object>
-  <object>
-    <Category>newBuildingFlatSale</Category>
-    <ExternalId>3144afa6-3e23-4adc-9bab-0f11e7a7700c</ExternalId>
-    <Description>ЖК "Легенда Марусино". 2-комнатная квартира 84 м², этаж 7, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</Description>
-    <Status>available</Status>
-    <Url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-84m-k232</Url>
-    <Coordinates>
-      <Lat>55.693906</Lat>
-      <Lng>37.977366</Lng>
-    </Coordinates>
-    <FlatRoomsCount>2</FlatRoomsCount>
-    <TotalArea>84</TotalArea>
-    <LivingArea>46.2</LivingArea>
-    <KitchenArea>7.5</KitchenArea>
-    <FloorNumber>7</FloorNumber>
-    <CeilingHeight>4.99</CeilingHeight>
-    <HasBalcony>false</HasBalcony>
-    <FinishingType>fine</FinishingType>
-    <MortgagePayment>120532.44</MortgagePayment>
-    <JKSchema>
-      <Id>a5f9b6b9-037d-4cd8-981c-cbd55e93a5c0</Id>
-      <Name>ЖК "Легенда Марусино"</Name>
-      <House>
-        <Name>1.2</Name>
-        <Flat>
-          <FlatNumber>К232</FlatNumber>
-          <SectionNumber>5</SectionNumber>
-        </Flat>
-      </House>
-    </JKSchema>
-    <Building>
-      <Name>1.2</Name>
-      <Deadline>4 кв. 2026</Deadline>
-    </Building>
-    <LayoutPhoto>
-      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/2e7b176bcb3740ab93e0149f0b19ce75.png</FullUrl>
-      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
-    </LayoutPhoto>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/2e7b176bcb3740ab93e0149f0b19ce75.png</FullUrl>
-        <PhotoType>realtyObjectPhoto</PhotoType>
-      </PhotoSchema>
-    </Photos>
-    <BargainTerms>
-      <Price>22632000</Price>
-      <Currency>rur</Currency>
-      <OldPrice>22632000</OldPrice>
       <MortgageAllowed>true</MortgageAllowed>
     </BargainTerms>
   </object>

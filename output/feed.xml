@@ -1,5 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <offer internal-id="16c5f389-4cb8-4b31-abb8-8c76b85eb5a9">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendamarusino.ru/flats/kvartira-studia-25.1m-k70</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/ac2b44de1bfc466d83cc321edfd6556c.svg</image>
+    <price>
+      <value>6661359</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>25.1</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>11.8</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>3.4</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>0</rooms>
+    <floor>1</floor>
+    <ceiling-height>3.57</ceiling-height>
+    <description>ЖК "Легенда Марусино". Студия 25.1 м², этаж 1, секция 3, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Марусино"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="c3412e5f-19c4-41c2-8815-cd896798c639">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendamarusino.ru/flats/kvartira-studia-30.6m-k235</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/21a481143b3c4045a7ed00dcf6d344f9.png</image>
+    <price>
+      <value>7114013</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>30.6</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>18.1</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>4.3</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>0</rooms>
+    <floor>1</floor>
+    <ceiling-height>4.02</ceiling-height>
+    <description>ЖК "Легенда Марусино". Студия 30.6 м², этаж 1, секция 6, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Марусино"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="bfc2280e-3a26-4508-8197-693cf5821b15">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-41m-k108</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/dc2dfa07d3c94a5592b5e0b4c0f8c02c.svg</image>
+    <price>
+      <value>9053079</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>41</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>14.7</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14.1</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>1</rooms>
+    <floor>6</floor>
+    <ceiling-height>3.08</ceiling-height>
+    <description>ЖК "Легенда Марусино". 1-комнатная квартира 41 м², этаж 6, секция 3, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Марусино"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="2a402f77-dc36-4bbd-93ac-4fcf862b8e8f">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-41.7m-k274</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/2dbbd98f80fd4888b1cc63ea72f06243.png</image>
+    <price>
+      <value>9207643</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>41.7</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>16.2</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>14</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>1</rooms>
+    <floor>6</floor>
+    <ceiling-height>3.08</ceiling-height>
+    <description>ЖК "Легенда Марусино". 1-комнатная квартира 41.7 м², этаж 6, секция 6, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Марусино"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="3bc9ed54-56a4-4c87-9af5-9fc1c5b9e0c2">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-43.3m-k301</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/e19ea35cd06d457b846284f8b0d609cd.png</image>
+    <price>
+      <value>9560934</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>43.3</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>17.1</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>15.4</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>1</rooms>
+    <floor>1</floor>
+    <ceiling-height>3.57</ceiling-height>
+    <description>ЖК "Легенда Марусино". 1-комнатная квартира 43.3 м², этаж 1, секция 8, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Марусино"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="ce5afc0a-2544-48b1-8753-43fd21fc0d77">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-48.9m-k281</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/ab1abfa909134941984fb533c811a061.png</image>
+    <price>
+      <value>10640162</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>48.9</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>16.4</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>15.8</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>1</rooms>
+    <floor>2</floor>
+    <ceiling-height>2.82</ceiling-height>
+    <description>ЖК "Легенда Марусино". 1-комнатная квартира 48.9 м², этаж 2, секция 7, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Марусино"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="b0e70461-d94c-4cd4-adae-dfbe8e80298d">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-64m-k199</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/60b6907bd7ef4b96aee12ad0c5b3d526.png</image>
+    <price>
+      <value>12983439</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>64</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>27.1</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>13.4</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <floor>3</floor>
+    <ceiling-height>2.82</ceiling-height>
+    <description>ЖК "Легенда Марусино". 2-комнатная квартира 64 м², этаж 3, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Марусино"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="3686b438-0cde-4db6-8bf8-e2e4fbfed224">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-65.4m-k38</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/f3c06349d4414f5682c2a4309d9ba7fe.svg</image>
+    <price>
+      <value>13121656</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>65.4</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>36.9</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>5.9</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>2</rooms>
+    <floor>2</floor>
+    <ceiling-height>2.82</ceiling-height>
+    <description>ЖК "Легенда Марусино". 2-комнатная квартира 65.4 м², этаж 2, секция 2, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Марусино"</organization>
+    </sales-agent>
+  </offer>
+  <offer internal-id="2acfb867-0daf-43e2-b659-0080bc87190d">
+    <type>продажа</type>
+    <category>квартира</category>
+    <url>https://legendamarusino.ru/flats/3-komnatnaya-kvartira-75m-k307</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/869797a5d5c64b6faf9f46e1d1c4cc5b.png</image>
+    <price>
+      <value>14880573</value>
+      <currency>RUR</currency>
+    </price>
+    <area>
+      <value>75</value>
+      <unit>кв. м</unit>
+    </area>
+    <living-space>
+      <value>46.6</value>
+      <unit>кв. м</unit>
+    </living-space>
+    <kitchen-space>
+      <value>3.6</value>
+      <unit>кв. м</unit>
+    </kitchen-space>
+    <rooms>3</rooms>
+    <floor>2</floor>
+    <ceiling-height>2.82</ceiling-height>
+    <description>ЖК "Легенда Марусино". 3-комнатная квартира 75 м², этаж 2, секция 8, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
+    <sales-agent>
+      <organization>ЖК "Легенда Марусино"</organization>
+    </sales-agent>
+  </offer>
   <offer internal-id="5c19b5f7-25be-4145-a2a4-cb116a410b75">
     <type>продажа</type>
     <category>квартира</category>
@@ -170,35 +431,6 @@
     <floor>2</floor>
     <ceiling-height>2.82</ceiling-height>
     <description>ЖК "Легенда Марусино". Студия 23.4 м², этаж 2, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="874f243f-6a32-4f17-838e-8d0557d54d8b">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/kvartira-studia-23.4m-k172</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/4814b26b73ef4327a4827115e9c75a9e.png</image>
-    <price>
-      <value>8757000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>23.4</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>12.5</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>3.6</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>0</rooms>
-    <floor>7</floor>
-    <ceiling-height>3.12</ceiling-height>
-    <description>ЖК "Легенда Марусино". Студия 23.4 м², этаж 7, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
@@ -406,35 +638,6 @@
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="0a9cf420-b96a-4dac-90f9-68427dd43044">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/kvartira-studia-24.1m-k43</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/b6e28b0f6b6546a29876a43671ced768.svg</image>
-    <price>
-      <value>9019000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>24.1</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>13.3</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>3.3</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>0</rooms>
-    <floor>3</floor>
-    <ceiling-height>2.82</ceiling-height>
-    <description>ЖК "Легенда Марусино". Студия 24.1 м², этаж 3, секция 2, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="1b70731b-2b8b-4d99-9842-ac6674d48086">
     <type>продажа</type>
     <category>квартира</category>
@@ -522,31 +725,31 @@
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="82461483-95b8-4311-a947-428988459aab">
+  <offer internal-id="0db1e376-7af9-47c1-88e3-5cf206548346">
     <type>продажа</type>
     <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/kvartira-studia-29.7m-k231</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/b184663b73f04c92bc3bbfa711d7fdaa.png</image>
+    <url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-38.7m-k155</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/a6e9d19ffbad43f888987c5350f66f00.png</image>
     <price>
-      <value>9558000</value>
+      <value>11391450</value>
       <currency>RUR</currency>
     </price>
     <area>
-      <value>29.7</value>
+      <value>38.7</value>
       <unit>кв. м</unit>
     </area>
     <living-space>
-      <value>13.9</value>
+      <value>15</value>
       <unit>кв. м</unit>
     </living-space>
     <kitchen-space>
-      <value>2.2</value>
+      <value>13.7</value>
       <unit>кв. м</unit>
     </kitchen-space>
-    <rooms>0</rooms>
-    <floor>7</floor>
-    <ceiling-height>4.99</ceiling-height>
-    <description>ЖК "Легенда Марусино". Студия 29.7 м², этаж 7, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
+    <rooms>1</rooms>
+    <floor>5</floor>
+    <ceiling-height>2.82</ceiling-height>
+    <description>ЖК "Легенда Марусино". 1-комнатная квартира 38.7 м², этаж 5, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
@@ -576,35 +779,6 @@
     <floor>1</floor>
     <ceiling-height>3.57</ceiling-height>
     <description>ЖК "Легенда Марусино". 1-комнатная квартира 37.1 м², этаж 1, секция 8, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="01b33260-0ac6-47d0-87f9-22f55e97986a">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-38.3m-k171</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/c08fae92c6dd4b43b985b0588303fc34.png</image>
-    <price>
-      <value>11867000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>38.3</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>15</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>13.6</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>7</floor>
-    <ceiling-height>3.12</ceiling-height>
-    <description>ЖК "Легенда Марусино". 1-комнатная квартира 38.3 м², этаж 7, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
@@ -1827,35 +2001,6 @@
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="ed81f5e4-b96e-4b27-b434-0dbfb1896da4">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/1-komnatnaya-kvartira-42m-k104</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/b5119ee7201448efb1e9fef4c928d514.svg</image>
-    <price>
-      <value>12888000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>42</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>20.6</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>12.5</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>5</floor>
-    <ceiling-height>2.82</ceiling-height>
-    <description>ЖК "Легенда Марусино". 1-комнатная квартира 42 м², этаж 5, секция 3, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="2ac3cf48-8376-4044-b8bb-99399a3e8363">
     <type>продажа</type>
     <category>квартира</category>
@@ -2030,35 +2175,6 @@
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="4eef8121-ed78-4ec0-84c4-35a96212830f">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-43.1m-k163</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/a0e7e6d4ceef4f62a0e1981a79a10251.png</image>
-    <price>
-      <value>13226000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>43.1</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>28.5</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>3.6</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>6</floor>
-    <ceiling-height>2.82</ceiling-height>
-    <description>ЖК "Легенда Марусино". 2-комнатная квартира 43.1 м², этаж 6, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="2faec2a2-70fc-4bea-b0e5-a7377fbed99e">
     <type>продажа</type>
     <category>квартира</category>
@@ -2204,35 +2320,6 @@
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="a6cb8461-1d4e-4823-bd3e-50a84effc27c">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/kvartira-studia-49.6m-k174</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/3b270d72ea8a4b89956ba77d132b1678.png</image>
-    <price>
-      <value>15962000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>49.6</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>27.5</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>4</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>0</rooms>
-    <floor>7</floor>
-    <ceiling-height>4.99</ceiling-height>
-    <description>ЖК "Легенда Марусино". Студия 49.6 м², этаж 7, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="e1787512-6825-4530-aae3-a05dd2890b97">
     <type>продажа</type>
     <category>квартира</category>
@@ -2291,35 +2378,6 @@
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="c5228f83-d532-418c-bdf8-a9449253b264">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-57.1m-k72</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/35c0034dfc7646ca848d877872c24d33.svg</image>
-    <price>
-      <value>17009000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>57.1</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>29</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>16</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>1</floor>
-    <ceiling-height>3.57</ceiling-height>
-    <description>ЖК "Легенда Марусино". 2-комнатная квартира 57.1 м², этаж 1, секция 3, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="92d700a9-9b92-4d66-b137-a33a0c81b8ab">
     <type>продажа</type>
     <category>квартира</category>
@@ -2374,35 +2432,6 @@
     <floor>1</floor>
     <ceiling-height>3.57</ceiling-height>
     <description>ЖК "Легенда Марусино". 2-комнатная квартира 58.3 м², этаж 1, секция 9, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="74b9596a-2bce-4c7d-8184-b00fd75dc990">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-64m-k189</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/5ff362a6c4864e559b53fbab7005bf74.png</image>
-    <price>
-      <value>17435000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>64</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>27.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>13.4</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>2</floor>
-    <ceiling-height>2.82</ceiling-height>
-    <description>ЖК "Легенда Марусино". 2-комнатная квартира 64 м², этаж 2, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
@@ -2581,35 +2610,6 @@
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="f747333e-e2a3-44ed-94e3-29faaf006dc6">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-59m-k152</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/306556cb21df422facaf033b4ac46aaf.png</image>
-    <price>
-      <value>17575000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>59</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>31.6</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>13.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>4</floor>
-    <ceiling-height>2.82</ceiling-height>
-    <description>ЖК "Легенда Марусино". 2-комнатная квартира 59 м², этаж 4, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="025642a6-7009-4f96-9ac0-3f7bc59aa768">
     <type>продажа</type>
     <category>квартира</category>
@@ -2751,35 +2751,6 @@
     <floor>3</floor>
     <ceiling-height>2.82</ceiling-height>
     <description>ЖК "Легенда Марусино". 2-комнатная квартира 65.6 м², этаж 3, секция 2, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="f646f118-9325-43a9-8c57-9f95c1d74a25">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-69.4m-k176</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/8593eab00f254238b027be98fb9473cf.png</image>
-    <price>
-      <value>17764050</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>69.4</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>38.2</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>6.7</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>7</floor>
-    <ceiling-height>4.99</ceiling-height>
-    <description>ЖК "Легенда Марусино". 2-комнатная квартира 69.4 м², этаж 7, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
@@ -3335,64 +3306,6 @@
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="3d27f8c6-6de3-4ae2-90eb-85d608f5b6a7">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-76.1m-k233</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/c8898182ea8b402c9b753744b313a4e8.png</image>
-    <price>
-      <value>20504000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>76.1</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>45.7</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>6.7</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>7</floor>
-    <ceiling-height>4.99</ceiling-height>
-    <description>ЖК "Легенда Марусино". 2-комнатная квартира 76.1 м², этаж 7, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="09f3f49f-72a8-4c57-be06-24a3eabf7c9d">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-76.5m-k173</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/51da6971afcd430d839b4a37c8561468.png</image>
-    <price>
-      <value>20612000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>76.5</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>38.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.4</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>7</floor>
-    <ceiling-height>4.99</ceiling-height>
-    <description>ЖК "Легенда Марусино". 2-комнатная квартира 76.5 м², этаж 7, секция 4, корпус 1.1. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="e82aa0bf-29b3-424a-bd1d-65ba146c7483">
     <type>продажа</type>
     <category>квартира</category>
@@ -3476,64 +3389,6 @@
     <floor>4</floor>
     <ceiling-height>3.08</ceiling-height>
     <description>ЖК "Легенда Марусино". 3-комнатная квартира 77.9 м², этаж 4, секция 7, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="c5b8b9fa-753c-440a-8206-eed42fb09185">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/3-komnatnaya-kvartira-82.3m-k297</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/eeb3f77e5e6f456687d6253f0c9f6198.png</image>
-    <price>
-      <value>21681000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>82.3</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>40.9</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>15.8</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>3</rooms>
-    <floor>4</floor>
-    <ceiling-height>3.08</ceiling-height>
-    <description>ЖК "Легенда Марусино". 3-комнатная квартира 82.3 м², этаж 4, секция 7, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Марусино"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="3144afa6-3e23-4adc-9bab-0f11e7a7700c">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-84m-k232</url>
-    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/2e7b176bcb3740ab93e0149f0b19ce75.png</image>
-    <price>
-      <value>22632000</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>84</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>46.2</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>7.5</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>7</floor>
-    <ceiling-height>4.99</ceiling-height>
-    <description>ЖК "Легенда Марусино". 2-комнатная квартира 84 м², этаж 7, секция 5, корпус 1.2. Срок сдачи: 4 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Марусино"</organization>
     </sales-agent>
@@ -5912,35 +5767,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="0d316215-ce03-4f98-a4fb-4e81fb9140dd">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-5-kvartira-studia-29.5m-k27</url>
-    <image>https://legendakorenevo.ru/catalog/plans/13ef/ca8f/13efca8fa9ba57d7b94ce5b34bdf4570.png</image>
-    <price>
-      <value>9792210</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>28.5</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>15</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>5.5</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>0</rooms>
-    <floor>3</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". Студия 28.5 м², этаж 3, секция 1, корпус Корпус 5. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="100856b8-2de6-4e63-9605-d8ffb928abc2">
     <type>продажа</type>
     <category>квартира</category>
@@ -6053,35 +5879,6 @@
     <floor>2</floor>
     <ceiling-height>2.72</ceiling-height>
     <description>ЖК "Легенда Коренево". Студия 28.5 м², этаж 2, секция 2, корпус Корпус 5. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="20734509-db1d-4a9c-8f19-e2c90362a5a1">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-2-kvartira-studia-29.5m-k54</url>
-    <image>https://legendakorenevo.ru/catalog/plans/f689/174d/f689174dc211544e90adab1d9763c27e.png</image>
-    <price>
-      <value>9792210</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>28.5</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>15</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>5.5</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>0</rooms>
-    <floor>6</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". Студия 28.5 м², этаж 6, секция 1, корпус Корпус 2. Срок сдачи: 2 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
@@ -8982,35 +8779,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="6e471499-b412-417a-9b9a-f57fe2a92e6e">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-3-kvartira-studia-29.5m-k210</url>
-    <image>https://legendakorenevo.ru/catalog/plans/d4f7/9157/d4f79157787352988b245165bed0fc51.png</image>
-    <price>
-      <value>9925436</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>28.7</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>15.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>5.5</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>0</rooms>
-    <floor>5</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". Студия 28.7 м², этаж 5, секция 3, корпус Корпус 3. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="be9f3a44-accf-4f67-8f1a-0a47fd087e9e">
     <type>продажа</type>
     <category>квартира</category>
@@ -9156,64 +8924,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="2a3fddfe-f9c2-48a9-9eee-9bd5fbabc842">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-4-1-komnatnaya-kvartira-34.1m-k83</url>
-    <image>https://legendakorenevo.ru/catalog/plans/0de5/38ee/0de538ee7eef5391b7a7d50f81c2dbb8.png</image>
-    <price>
-      <value>11389103</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>32.7</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>8</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.7 м², этаж 8, секция 1, корпус Корпус 4. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="43c5c83b-a418-4419-a96b-ace0af97084a">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-4-1-komnatnaya-kvartira-34.1m-k86</url>
-    <image>https://legendakorenevo.ru/catalog/plans/2a16/d777/2a16d7777e3959868fd58934ddbea321.png</image>
-    <price>
-      <value>11389103</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>32.7</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>2</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.7 м², этаж 2, секция 2, корпус Корпус 4. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="532e9843-4ff5-4b78-bc41-7eb7d4fee2f2">
     <type>продажа</type>
     <category>квартира</category>
@@ -9326,35 +9036,6 @@
     <floor>8</floor>
     <ceiling-height>2.72</ceiling-height>
     <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.7 м², этаж 8, секция 2, корпус Корпус 4. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="ae2deb23-1194-4fda-a194-6c378780e381">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-5-1-komnatnaya-kvartira-34.1m-k44</url>
-    <image>https://legendakorenevo.ru/catalog/plans/9615/dbff/9615dbff5169551a896284f0fe6fb2c9.png</image>
-    <price>
-      <value>11389103</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>32.7</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>5</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.7 м², этаж 5, секция 1, корпус Корпус 5. Срок сдачи: 2 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
@@ -9504,35 +9185,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="569cc332-7b4d-4a7e-ab17-bf9ad09a7c00">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-1-1-komnatnaya-kvartira-34.1m-k119</url>
-    <image>https://legendakorenevo.ru/catalog/plans/8427/89a3/842789a3ba3650daa190ac320d666800.png</image>
-    <price>
-      <value>11455999</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>32.7</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>4</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.7 м², этаж 4, секция 2, корпус Корпус 1. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="66d80138-5792-4cb9-9121-d5fe1d36c600">
     <type>продажа</type>
     <category>квартира</category>
@@ -9649,60 +9301,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="c2b640eb-8acd-4346-9be0-e4b0fc7364fb">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-4-1-komnatnaya-kvartira-34.1m-k35</url>
-    <image>https://legendakorenevo.ru/catalog/plans/cfb0/51fc/cfb051fc0a77555385f7b096be6fbe30.png</image>
-    <price>
-      <value>11455999</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>32.8</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>4</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.8 м², этаж 4, секция 1, корпус Корпус 4. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="c3a10e02-2478-44b6-86d5-2f1246d332ae">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-3-1-komnatnaya-kvartira-34.1m-k2</url>
-    <image>https://legendakorenevo.ru/catalog/plans/0ab5/56ab/0ab556ab15695a678da04bd8f27cbaf3.png</image>
-    <price>
-      <value>11455999</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>32.7</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <rooms>1</rooms>
-    <floor>2</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.7 м², этаж 2, секция 1, корпус Корпус 3. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="d07e5dd3-d27f-42ae-a66d-b2e523d9330a">
     <type>продажа</type>
     <category>квартира</category>
@@ -9728,93 +9326,6 @@
     <floor>2</floor>
     <ceiling-height>2.72</ceiling-height>
     <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.7 м², этаж 2, секция 1, корпус Корпус 4. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="d1c1efb9-261e-4bec-9320-b688fd30511e">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-5-1-komnatnaya-kvartira-34.1m-k11</url>
-    <image>https://legendakorenevo.ru/catalog/plans/2622/c0c5/2622c0c50180534a8ae9b8e41e87ee4a.png</image>
-    <price>
-      <value>11455999</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>32.8</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>2</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.8 м², этаж 2, секция 1, корпус Корпус 5. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="d78084ac-26ba-403e-9f9f-ddd0411795f1">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-4-1-komnatnaya-kvartira-34.1m-k119</url>
-    <image>https://legendakorenevo.ru/catalog/plans/5edd/7ed4/5edd7ed4b3405db291ed48c774052b28.png</image>
-    <price>
-      <value>11455999</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>32.8</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>4</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.8 м², этаж 4, секция 2, корпус Корпус 4. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="17497412-1e25-48d8-b669-1247f4241410">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-1-1-komnatnaya-kvartira-34.1m-k134</url>
-    <image>https://legendakorenevo.ru/catalog/plans/53b5/ed3a/53b5ed3acf355495969a6ddc895d1567.png</image>
-    <price>
-      <value>11523091</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>32.8</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.2</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>6</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.8 м², этаж 6, секция 2, корпус Корпус 1. Срок сдачи: 2 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
@@ -9931,35 +9442,6 @@
     <floor>2</floor>
     <ceiling-height>2.72</ceiling-height>
     <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.8 м², этаж 2, секция 3, корпус Корпус 3. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="e802a18b-375d-492c-844c-e15fd1c0b9ee">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-1-1-komnatnaya-kvartira-34.1m-k71</url>
-    <image>https://legendakorenevo.ru/catalog/plans/6bc2/815d/6bc2815d09a2585d9716ce22ec7dff77.png</image>
-    <price>
-      <value>11523091</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>32.8</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>7</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 32.8 м², этаж 7, секция 1, корпус Корпус 1. Срок сдачи: 2 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
@@ -10544,35 +10026,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="28b4bd0b-b005-4b36-9509-c8b35120dfdf">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-5-1-komnatnaya-kvartira-34.4m-k42</url>
-    <image>https://legendakorenevo.ru/catalog/plans/2f9d/09fd/2f9d09fde0ab56329073e9d95947fd01.png</image>
-    <price>
-      <value>12266118</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>33.1</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>4</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 33.1 м², этаж 4, секция 1, корпус Корпус 5. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="2dfc17d6-cf4e-4f54-bafd-e262392699f0">
     <type>продажа</type>
     <category>квартира</category>
@@ -10747,35 +10200,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="80b08749-054d-4c8c-a65e-149619695bbd">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-1-1-komnatnaya-kvartira-34.4m-k144</url>
-    <image>https://legendakorenevo.ru/catalog/plans/fff3/811a/fff3811a27725d3f98ae4da7e0bbaf5d.png</image>
-    <price>
-      <value>12266118</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>33</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>6</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 33 м², этаж 6, секция 2, корпус Корпус 1. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="904fc332-3eee-4e04-9fa3-2d26f3e5ae35">
     <type>продажа</type>
     <category>квартира</category>
@@ -10834,35 +10258,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="d1a483c0-6104-4cb9-ad34-946f30e69b0f">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-5-1-komnatnaya-kvartira-34.4m-k120</url>
-    <image>https://legendakorenevo.ru/catalog/plans/49c2/68c5/49c268c5ccab52e9abe872c7136f5f91.png</image>
-    <price>
-      <value>12266118</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>33.1</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>4</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 33.1 м², этаж 4, секция 2, корпус Корпус 5. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="dfd22aa7-5656-4831-b9e8-ce89fb802ef3">
     <type>продажа</type>
     <category>квартира</category>
@@ -10917,35 +10312,6 @@
     <floor>7</floor>
     <ceiling-height>2.72</ceiling-height>
     <description>ЖК "Легенда Коренево". 1-комнатная квартира 33 м², этаж 7, секция 3, корпус Корпус 3. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="eff70be9-9bbc-4a83-b883-540772e963dd">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-1-1-komnatnaya-kvartira-34.4m-k48</url>
-    <image>https://legendakorenevo.ru/catalog/plans/7e06/3189/7e06318927895f5abe709a8a8f6ef287.png</image>
-    <price>
-      <value>12266118</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>33</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>8.1</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>5</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 33 м², этаж 5, секция 1, корпус Корпус 1. Срок сдачи: 2 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
@@ -11211,35 +10577,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="564221fe-adec-4848-96d2-e10a453928b0">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-1-1-komnatnaya-kvartira-37.1m-k165</url>
-    <image>https://legendakorenevo.ru/catalog/plans/66f7/5465/66f754659c5352048dcb9baf085e83d7.png</image>
-    <price>
-      <value>13178152</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>35.7</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>14.1</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>12.9</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>1</rooms>
-    <floor>8</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 1-комнатная квартира 35.7 м², этаж 8, секция 2, корпус Корпус 1. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="35ee3364-2bc5-4ce9-a097-4051739f894b">
     <type>продажа</type>
     <category>квартира</category>
@@ -11352,35 +10689,6 @@
     <floor>2</floor>
     <ceiling-height>2.72</ceiling-height>
     <description>ЖК "Легенда Коренево". 2-комнатная квартира 53.6 м², этаж 2, секция 2, корпус Корпус 1. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="cf309e77-f1aa-4972-a859-4f0f091f08f5">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-5-2-komnatnaya-kvartira-54.4m-k91</url>
-    <image>https://legendakorenevo.ru/catalog/plans/00be/cb10/00becb1066015ba1a508ac456ed75471.png</image>
-    <price>
-      <value>17606900</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>54.6</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>30.7</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>5</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>1</floor>
-    <ceiling-height>3.9</ceiling-height>
-    <description>ЖК "Легенда Коренево". 2-комнатная квартира 54.6 м², этаж 1, секция 2, корпус Корпус 5. Срок сдачи: 2 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
@@ -12284,35 +11592,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="8212bd32-4410-420c-a570-361e5ca9dc42">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-2-2-komnatnaya-kvartira-56.3m-k130</url>
-    <image>https://legendakorenevo.ru/catalog/plans/ea1c/3c9d/ea1c3c9d62be54059ef27d6ed36ed5b9.png</image>
-    <price>
-      <value>18152912</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>53.6</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>31.6</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>6</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>5</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 2-комнатная квартира 53.6 м², этаж 5, секция 2, корпус Корпус 2. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="928cceeb-c24f-4b1f-b016-799067bda005">
     <type>продажа</type>
     <category>квартира</category>
@@ -12516,35 +11795,6 @@
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
   </offer>
-  <offer internal-id="755722ef-66fc-4c6d-9047-47eee41d837b">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-4-2-komnatnaya-kvartira-56.2m-k3</url>
-    <image>https://legendakorenevo.ru/catalog/plans/adad/364a/adad364a5fef533f9e93b8728b611dc0.png</image>
-    <price>
-      <value>18185213</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>53.7</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>31.5</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>6</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>2</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 2-комнатная квартира 53.7 м², этаж 2, секция 1, корпус Корпус 4. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
   <offer internal-id="a80ed62e-4f1e-480f-9001-19a71715c1f5">
     <type>продажа</type>
     <category>квартира</category>
@@ -12657,35 +11907,6 @@
     <floor>4</floor>
     <ceiling-height>2.72</ceiling-height>
     <description>ЖК "Легенда Коренево". 2-комнатная квартира 53.6 м², этаж 4, секция 1, корпус Корпус 2. Срок сдачи: 2 кв. 2026.</description>
-    <sales-agent>
-      <organization>ЖК "Легенда Коренево"</organization>
-    </sales-agent>
-  </offer>
-  <offer internal-id="059f120d-c04b-4560-b83b-0d7f7d475576">
-    <type>продажа</type>
-    <category>квартира</category>
-    <url>https://legendakorenevo.ru/flats/korpus-4-2-komnatnaya-kvartira-56.3m-k70</url>
-    <image>https://legendakorenevo.ru/catalog/plans/468f/3665/468f366526905bdc9ce251c26c441bfb.png</image>
-    <price>
-      <value>18217341</value>
-      <currency>RUR</currency>
-    </price>
-    <area>
-      <value>53.7</value>
-      <unit>кв. м</unit>
-    </area>
-    <living-space>
-      <value>31.6</value>
-      <unit>кв. м</unit>
-    </living-space>
-    <kitchen-space>
-      <value>6</value>
-      <unit>кв. м</unit>
-    </kitchen-space>
-    <rooms>2</rooms>
-    <floor>7</floor>
-    <ceiling-height>2.72</ceiling-height>
-    <description>ЖК "Легенда Коренево". 2-комнатная квартира 53.7 м², этаж 7, секция 1, корпус Корпус 4. Срок сдачи: 2 кв. 2026.</description>
     <sales-agent>
       <organization>ЖК "Легенда Коренево"</organization>
     </sales-agent>
