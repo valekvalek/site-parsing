@@ -729,6 +729,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://legendamarusino.ru/flats/kvartira-studia-30.7m-k340</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/46b87a687cc64a3e86d9a7349ab412c5.png</image>
     <price>
       <value>9880000</value>
       <currency>RUR</currency>
@@ -2381,6 +2382,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-56.1m-k17</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/614ca38d1113496c827c98ca66207a33.svg</image>
     <price>
       <value>16711000</value>
       <currency>RUR</currency>
@@ -2409,6 +2411,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-56.8m-k103</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/489e59e9286a44a8baee24ffb8cd2e62.svg</image>
     <price>
       <value>16919000</value>
       <currency>RUR</currency>
@@ -2466,6 +2469,7 @@
     <type>продажа</type>
     <category>квартира</category>
     <url>https://legendamarusino.ru/flats/2-komnatnaya-kvartira-57m-k79</url>
+    <image>https://legendamarusino.ru/media/catalog/flat/plan2d/b5c89a2e33e84bc3822aa7106232807a.svg</image>
     <price>
       <value>16979000</value>
       <currency>RUR</currency>

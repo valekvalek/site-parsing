@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
   <feed_version>2</feed_version>
-  <generated>2026-11-22T14:03:37.107Z</generated>
+  <generated>2026-11-23T17:25:35.705Z</generated>
   <object>
     <Category>newBuildingFlatSale</Category>
     <ExternalId>16c5f389-4cb8-4b31-abb8-8c76b85eb5a9</ExternalId>
@@ -1311,6 +1311,16 @@
       <Name>1.2</Name>
       <Deadline>4 кв. 2026</Deadline>
     </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/46b87a687cc64a3e86d9a7349ab412c5.png</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/46b87a687cc64a3e86d9a7349ab412c5.png</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
     <BargainTerms>
       <Price>9880000</Price>
       <Currency>rur</Currency>
@@ -4208,6 +4218,16 @@
       <Name>1.1</Name>
       <Deadline>4 кв. 2026</Deadline>
     </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/614ca38d1113496c827c98ca66207a33.svg</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/614ca38d1113496c827c98ca66207a33.svg</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
     <BargainTerms>
       <Price>16711000</Price>
       <Currency>rur</Currency>
@@ -4249,6 +4269,16 @@
       <Name>1.1</Name>
       <Deadline>4 кв. 2026</Deadline>
     </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/489e59e9286a44a8baee24ffb8cd2e62.svg</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/489e59e9286a44a8baee24ffb8cd2e62.svg</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
     <BargainTerms>
       <Price>16919000</Price>
       <Currency>rur</Currency>
@@ -4341,6 +4371,16 @@
       <Name>1.1</Name>
       <Deadline>4 кв. 2026</Deadline>
     </Building>
+    <LayoutPhoto>
+      <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/b5c89a2e33e84bc3822aa7106232807a.svg</FullUrl>
+      <PhotoType>realtyObjectLayoutPhoto</PhotoType>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://legendamarusino.ru/media/catalog/flat/plan2d/b5c89a2e33e84bc3822aa7106232807a.svg</FullUrl>
+        <PhotoType>realtyObjectPhoto</PhotoType>
+      </PhotoSchema>
+    </Photos>
     <BargainTerms>
       <Price>16979000</Price>
       <Currency>rur</Currency>
